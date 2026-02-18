@@ -2,8 +2,8 @@
 
 ![Manannán cover](manannan.png)
 
-Digitization of *Manannán*, written in 1940 by Máiréad Ní Ghráda. It is an Irish-language young adult sci-fi space travel book. 
-It may contain the furst use of a Mecha outside of Japan. And the first mention of a gravity assist in literature. It has never been reprinted or translated. This is an attempt to make the book more accessible and more widely read.
+Digitization of _Manannán_, written in 1940 by Máiréad Ní Ghráda. It is an Irish-language young adult sci-fi space travel book.
+It may contain the first use of a Mecha outside of Japan. And the first mention of a gravity assist in literature. It has never been reprinted or translated. This is an attempt to make the book more accessible and more widely read.
 
 The text used old Irish orthography (dot over letter = h after letter etc).
 
@@ -12,7 +12,6 @@ The text used old Irish orthography (dot over letter = h after letter etc).
 1. **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
 2. **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
 3. **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
-
 
 Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
 
@@ -30,23 +29,23 @@ Errors are where the extract makes a spelling error . Do not worry about the pag
 
 ## Table of Contents (CLAR an leabair)
 
-| # | Chapter | Pages |
-|---|---------|-------|
-| 1 | Pláinéid na feaca Súil Duine riamh | 9–17 |
-| 2 | An Radarc, tríd an gCiandracán | 18–30 |
-| 3 | An Turas go Manannán | 31–43 |
-| 4 | Manannán | 44–52 |
-| 5 | Muintear Manannáin | 53–67 |
-| 6 | na 'Cráidmí' | 68–75 |
-| 7 | An tÁrd-Máigistir | 76–86 |
-| 8 | An Priorún | 87–97 |
-| 9 | Oidce sa Coill | 98–109 |
-| 10 | An tinneall | 110–123 |
-| 11 | Oidce tar Oidceanta | 124–136 |
-| 12 | 'Lug Lám-fada' | 137–150 |
-| 13 | An Tróid leis na 'Cráidmí' | 151–165 |
-| 14 | Diogaltas | 166–177 |
-| 15 | An téalod | 178–188 |
+| #   | Chapter                            | Pages   |
+| --- | ---------------------------------- | ------- |
+| 1   | Pláinéid na feaca Súil Duine riamh | 9–17    |
+| 2   | An Radarc, tríd an gCiandracán     | 18–30   |
+| 3   | An Turas go Manannán               | 31–43   |
+| 4   | Manannán                           | 44–52   |
+| 5   | Muintear Manannáin                 | 53–67   |
+| 6   | na 'Cráidmí'                       | 68–75   |
+| 7   | An tÁrd-Máigistir                  | 76–86   |
+| 8   | An Priorún                         | 87–97   |
+| 9   | Oidce sa Coill                     | 98–109  |
+| 10  | An tinneall                        | 110–123 |
+| 11  | Oidce tar Oidceanta                | 124–136 |
+| 12  | 'Lug Lám-fada'                     | 137–150 |
+| 13  | An Tróid leis na 'Cráidmí'         | 151–165 |
+| 14  | Diogaltas                          | 166–177 |
+| 15  | An téalod                          | 178–188 |
 
 ## How to Help
 
