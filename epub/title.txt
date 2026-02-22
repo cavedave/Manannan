@@ -1,0 +1,5 @@
+---
+title: Manannán
+author: Máiréad ní Ġráda
+language: ga-IE
+...
