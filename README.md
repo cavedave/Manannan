@@ -7,27 +7,6 @@ It may contain the first use of a Mecha outside of Japan. And the first mention 
 
 The text used old Irish orthography (dot over letter = h after letter etc).
 
-## Contents of This Repo
-
-1. **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
-2. **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
-3. **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
-
-
-Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
-
-## Plan
-
-We are extracting and correcting the text step by step:
-
-1. **Pages 9–13** — Done. Hand-corrected from OCR.
-2. **Pages 13–18** — Extracted
-3. **Later** — Once we have further found errors in these sections we can use them to correct later pages. For example if the extract mistook ' mor ' for ' mór ' it will make the mistake again later. And we will have to easily look for and fix these errors in later chapters. Because of that fixing initial errors drastically reduces errors to find in later chapters.
-
-## Errors
-
-Errors are where the extract makes a spelling error . Do not worry about the page numbers and book name being present. These are easy to take out later. And help keep track of where we are in the book for combining the text together later.
-
 ## Table of Contents (CLAR an leabair)
 
 | # | Chapter | Pages | PDF | Text |
@@ -49,6 +28,27 @@ Errors are where the extract makes a spelling error . Do not worry about the pag
 | 13 | An Tróid leis na 'Cráidmí' | 151–165 | [PDF](caibidlí/manannan13.pdf) | [Text](caibidlí/manannan13.txt) |
 | 14 | Diogaltas | 166–177 | [PDF](caibidlí/manannan14.pdf) | [Text](caibidlí/manannan14.txt) |
 | 15 | An téalod | 178–188 | [PDF](caibidlí/manannan15.pdf) | [Text](caibidlí/manannan15.txt) |
+
+## Contents of This Repo
+
+1. **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
+2. **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
+3. **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
+
+
+Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
+
+## Plan
+
+We are extracting and correcting the text step by step:
+
+1. **Pages 9–13** — Done. Hand-corrected from OCR.
+2. **Pages 13–18** — Extracted
+3. **Later** — Once we have further found errors in these sections we can use them to correct later pages. For example if the extract mistook ' mor ' for ' mór ' it will make the mistake again later. And we will have to easily look for and fix these errors in later chapters. Because of that fixing initial errors drastically reduces errors to find in later chapters.
+
+## Errors
+
+Errors are where the extract makes a spelling error . Do not worry about the page numbers and book name being present. These are easy to take out later. And help keep track of where we are in the book for combining the text together later.
 
 ## How to Help
 
