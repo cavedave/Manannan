@@ -1,11 +1,10 @@
 # Manannán
 
+*[Manannán](https://www.isfdb.org/cgi-bin/pl.cgi?584553)* written in 1940 by [Máiréad Ní Ghráda](https://www.dib.ie/biography/ni-ghrada-mairead-a6187). An Irish-language young adult sci-fi space travel book. Contains one of the first uses of a [mecha](https://en.wikipedia.org/wiki/Mecha) outside of Japan and the first mention of a [gravity assist](https://en.wikipedia.org/wiki/Gravity_assist) in literature. 
+
+The book has never been reprinted or translated. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
+
 ![Manannán cover](manannan.png)
-
-Digitization of *Manannán*, written in 1940 by [Máiréad Ní Ghráda](https://en.wikipedia.org/wiki/M%C3%A1ir%C3%A9ad_N%C3%AD_Ghr%C3%A1da). It is an Irish-language young adult sci-fi space travel book. 
-It may contain the first use of a Mecha outside of Japan. And the first mention of a gravity assist in literature. It has never been reprinted or translated. This is an attempt to make the book more accessible and more widely read.
-
-The text used old Irish orthography (dot over letter = h after letter etc).
 
 ## Contents of This Repo
 
