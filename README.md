@@ -11,7 +11,7 @@ The text used old Irish orthography (dot over letter = h after letter etc).
 
 | # | Chapter | Pages | PDF | Text |
 |---|---------|-------|-----|------|
-| 1 | Cover |  | | |
+| 1 | Cover |  | [PNG](manannan.png) | |
 | 0 | Front matter | 1–8 | [PDF](caibidlí/manannan00.pdf) | [Text](caibidlí/manannan00.txt) |
 | 1 | Pláinéid na feaca Súil Duine riamh | 9–17 | [PDF](caibidlí/manannan01.pdf) | [Text](caibidlí/manannan01.txt) |
 | 2 | An Radarc, tríd an gCiandracán | 18–30 | [PDF](caibidlí/manannan02.pdf) | [Text](caibidlí/manannan02.txt) | 
