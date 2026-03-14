@@ -397,7 +397,7 @@ Máirtín scuṫaire eile. D’árduiġ an róbot a ḋá láiṁ;
 rug na méireanna fada láidre greim ar an gcrann agus
 do staṫ idir ṗréaṁaċa agus eile aníos as an dtalaṁ é.
 Do ċas Máirtín scuṫaire eile. D’oscail na méireanna
-ó n-a ċéile gur ṫuiṫ an crann uaṫa ar an dtalaṁ. D’ḟéaċ
+ó n-a ċéile gur ṫuit an crann uaṫa ar an dtalaṁ. D’ḟéaċ
 Seán ar an gcrann. Ḃí na préaṁaċa go fairsing agus
 go riġin agus an crann féin go téagarṫa agus go craoḃaċ.
 
