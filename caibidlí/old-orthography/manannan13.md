@@ -330,7 +330,7 @@ A Ṁáirtín?”
 
 “Níor tugaḋ,” arsa Máirtín.
 
-“Ní haon iongnaḋ an áit a ḃeiṫ scriósta dealḃ
+“Ní haon iongnaḋ an áit a ḃeiṫ scriosta dealḃ
 aca má’s mar sin a meastar ċogaḋ a ċur orṫa,” arsa
 Seán go míċéadṫaċ.
 
