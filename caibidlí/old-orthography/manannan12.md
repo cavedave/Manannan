@@ -404,7 +404,7 @@ go riġin agus an crann féin go téagarṫa agus go craoḃaċ.
 “‘Luġ Láṁ-láidir’ ba ċeart a ḃaisteaḋ air,” arsa
 Seán.
 
-Níor ḋein Máirtín aċ gáire a ċur as agus an róbót
+Níor ḋein Máirtín aċ gáire a ċur as agus an róbot
 a ċur ag gluaiseaċt arís. Níorḃ ḟada go dtángadar go
 bruaċ na fairrge. Ċonnaic Brian gaineaṁ na tráġa ag
 glioscarnaiġ mar ar lonnruiġ an solas uirṫe. Ċuir
