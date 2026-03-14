@@ -44,7 +44,7 @@ cuireaḋ d’ḟiaċaiḃ air a ċoirṫe d’adṁáil.”
 ró-ḋeas na sliġte iad, agus gur fearr gan a ḃeiṫ ag
 cuiṁneaṁ orṫa. Ar aon ċuma d’adṁuiġ Grágó go raiḃ
 coṁ-ċeilg á ḋéanaṁ aige i gcoinniḃ an Árd-Ṁáiġistir agus
-d’innis sę ainmneaċa na n-oifigeaċ airm a ḃí páirteaċ
+d’innis sé ainmneaċa na n-oifigeaċ airm a ḃí páirteaċ
 leis san iarraċt. Do gaḃaḋ iad-san agus do cuireaḋ
 oifigiġ eile i mbun a gcod’ fear. Ḃí na saiġdiúirí ina
 seasaṁ ina línte dlúṫa sa ċearnóig nuair a ḃuail buille
