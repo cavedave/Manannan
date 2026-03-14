@@ -84,8 +84,8 @@ ar seisean. “Tá Nící tar éis a innsint dom conus a
 ṡáḃáilis ó’n mbás é nuair a ḃí sé a ṡúġaḋ síos sa ḃogaċ
 ṡúġraic.”
 
-“Cad so? Cad so?” arsa an réaltóir agus árd-
-iongnaḋ air.
+“Cad so? Cad so?” arsa an réaltóir agus árd-iongnaḋ 
+air.
 
 “Nár innis sé ḋuit i dtaoḃ an ḃogaiġ?” arsa Ámón.
 
