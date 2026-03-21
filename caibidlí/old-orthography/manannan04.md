@@ -1,56 +1,75 @@
 [l.18]: #
 
 # manannán
+
 "táimíd aim,” arsa an réaltóir, agus do leig sé
 osna cléiḃ.
+
 “Is fearra ḋúinn na cealltair ġeasa a ċur orainn
 sul a ḃfágaimíd an cábán,” arsa Máirtín, “ar eagla aon
 mḋ a ḃeiṫ san aer ná beaḋ oireaṁnaċ dúinn.”
+
 “Raġad sa tseans leis,” arsa an réaltóir agus do
 ṫúirling sé de’n eiteallán.
+
 Ní túisce ar an dtalaṁ é.ná ṫarraing sé anál ḟada.
+
 “Níl aon loċt ar aer na háite, pé scéal é,” ar
 seisean.
+
 Ṫáinig an ḃeirt eile. anuas go mall, mar ḃíodar
 crapuiṫe tar éis an aga a ḃí caiṫte aca i gcábán an
 eitealláin. Ṫug Brian léim as a ċaḃail ċun teaċt anuas,
 aċ i n-ionad léimt anuas ar an mbán is aṁlaiḋ a ġluais
 sé fan na talṁan ċom héadtrom seolta le héinín ag
 eitilt. Ċuir sé liúġ as le hiongnaḋ agus le háṫas.
+
 “Féaċ orm, a ḋaid,” ar seisean. “ Táim ag eitilt.”
+
 Leis sin ṫáinig sé anuas go héadtrom ar an bpáirc
 tamall beag ó’n eiteallán. Ḃí an triúr eile ag gáiriḋe.
+
 “ Ní hag eitilt a ḃís, a ṁic,” arsa an t-aṫair,” aċ ag léimt.”
 
 "Ní ḟeadfainn leim ċoṁ fada san a Ċaiṫeaṁ,” arsa Brian. “ Féaċ a ḟaid uaiḃ atáim.”
 
 “ Is Luga an ṗLáineid seo ná an doṁan so againne
 agus d’á ḃrí sin is luġa an tarraing atá aige ar niḋte.
+
 Mar sin is éadtruime sinne annso ná mar a ḃíomar ar
 an ndoṁan. Agus sin é an fát go ḃféadann tú leim
 ċoṁ fada san a ċaiṫeaṁ.”
+
 “An mar sin é?” arsa an garsún go díombáiḋeaċ.
 “Ċeapas gur ag eitilt a ḃíos. Cad a ḋéanfaimíd
 anois?” ar seisean.
+
 “Sé ċéad rud atá le déanaṁ agat-sa, a ṁic ó, ná
 tú féin a niġe sa tsruṫán san ṫaLl. Níor niġis tú féin
 le mí.”
+
 “Ní ró-ṡlaċtṁar atá aon duine againn,” arsa
 Seán. “ Ní ḋéanfaiḋ sé aon díoġḃáil dúinn sinn féin
 a ṫomaḋ i n-uisce an tsruṫáin.”..
+
 “Is fearra ḋúinn malairt éadaiġ a ċur orainn
 féin, leis,” arsa Máirtín, “ ar eagla go gceapfaḋ muin-
 tear na háite seo gur dream barbruiṫe salaĊ sinn.”
+
 Fuaireadar a gcuid -bagáiste as an gcábán agus
 anonn leo Ċun an tsruṫáin.
+
 “Tá tart orm-sa,” arsa Brian agus do Ċrom sé
 síos ċun deoċ d’óL.
+
 “Go réiḋ, a ġarsúin,” arsa Máirtín, “ go ndéanfad
 an t-uisce a ṫástáil ar eagLa aon Ċeimiciḋeaċt a ḃeiṫ
 ann a ḋéanfaḋ díoġḃáil dúinn.”
 
 "Fíor-uisce é,” ar seisean i gceann tamaillín.
+
 “Ólaiḋ ḃúr ndóṫain de.” 
+
 Do luigeadar go léir ar ḃruaċ an tsruṫáin agus
 d’óladar a ndóṫain de’n uisce. Dob ḟuaineiÉ go mór
 ná aon uisce d’ár ḃlais Brian riaṁ." Ḃaineadar díoḃ
@@ -63,31 +82,42 @@ Níl fear ar doṁan a léimfeaḋ ċoṁ hárd san,"
  ar seisean “Níl duine ar biṫ a raġaḋ ċoṁ fada san
 sa léim reaṫa,” ar seisean, ar ball beag, agus a ċroiḋe
 lán d’áṫas agus d’aoiḃneas
+
 “Is fearra ḋúinn an t-eiteallán a ċur i ḃfolaċ fé
 sna crannaiḃ annsan ṫall,” arsa Máirtín, “go dtí go
 gcuirfimíd aiṫne ar ṁuintir na háiṫe. B’ḟéidir náċ
 aon deaġ-ḟuadar a ḃeaḋ fúṫa agus go mbeaḋ orainn
 glanaḋ linn as an áit go tapaiḋ.”
+
 “Is maiṫ an cuiṁneaṁ é sin,” arsa Seán.
+
 Eiteallán mór a ḃí ann, aċ ṫoisc a éaḋtruime a ḃí
 gaĊ éinní ar Ṁanannán, d’éiriġ leis an dtriúr aca é
 ḋ’árdaċ leo ar a nguailníḃ agus é ċur i ḃfolaċ fé scáṫ
 na gcrann. Crainn ṁóra ab eaḋ iad de ṡaġas ná
 feictear ar an saoghal seo, agus duilliúr tiuġ ioldaṫaċ ortha.
+
 Ḃí Brian ag féaċaint orṫa ag árdú an eitealláin
 leo, agus a ḃéal ar leaṫaḋ aige le hiongnaḋ agus le
 halltaċt.
+
 “An aṁlaiḋ ná fuil aon ṁeáḋċan san eiteallán ? ”
+
 ar seisean.
+
 “Ní mór é,”
+
 arsa Seán.
+
 “Is iongantaċ an áit é,” arsa an garsún.
 “Ċífir iongantaisí is mó ná san sul a mbeir puinn
 níos sine,” arsa an réaltóir. “Téanaiġ oraiḃ,” ar
 seisean leis an mbeirt eile. “Tugaimís aġaiḋ ar an
 gcaṫair.”
+
 Ḃí an ċaṫair breis is míle uaṫa, aċ toisc a éadtruime
 a ḃíodar, níor ḃain sé cúig nóimit díoḃ teaċt coṁgaraċ di.
+
 Ḃí brat de ḃláṫann-a cuṁarṫa fé n-a gcosaiḃ agús gaĊ
 aon daṫ fé’n spéir orṫa, agus anois is arís ċídís éin
 ġeaLa ioldaṫaċa ag sceinnt isteaċ is amaċ tré ġéagaiḃ
@@ -97,54 +127,75 @@ cuirp. Baineaḋ leagaḋ as go hobann. Tógaḋ leis
 agus do síneaḋ ar ṡlait a ḋroma é. D’éiriġ sé go
 tapaiḋ agus d’ḟéaċ ar an dtalaṁ agus árd-iongnaḋ
 air. Ḃí an triúr eile tagaiṫe suas ċuige fé’n dtráṫ san.
+
 “Ḃfuilir gortuiġṫe, a ṁic?” arsa an réaltóir leis.
+
 Nílim gortuiġṫe i n-aon ċor, aċ ní ḟeadar ó ṫalaṁ
 an doṁain cad a leag mé.
+
 “Rud éigin a ḃain barra-ṫuisle asat, is dóċa,”
+
 arsa Seán.
+
 “Níl éinní annso a ḃainfeaḋ barra-ṫuisle asam,”
+
 arsa Brian. “Is aṁlaiḋ a ċriṫ an fód fé’m ċosaiḃ
 agus do ċaiṫ sé siar ar ḟleasc mo ḋroma mé.”
+
 “ Is ait é sin,” arsa Seán, agus ṫug sé coiscéim
 ċun tosaiġ. Ní túisce ḋein ná tógaḋ leis agus caiṫeaḋ
 siar ar ċúL a ċinn ar an dtalaṁ é. Ḃí sé ar a bonnaiḃ
 arís ar an bpuinnte.
+
 “ Tá an ceart ag an ngarsún,” ar seisean agus é
 ag cuimilt láiṁe de ċúl a ċinn. “ Tá rud éigin ait sa
 talaṁ.”
+
 Ḃain an ḃeirt eile triail as, aċ ní túisce a ċuiridís
 a gcosa ṫar an áit ina raḃadar ná caiṫtí siar ar ĊúL
 a gcinn iad.
+
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé niḋ é.”
+
 Do ċúluiġ sé siar uaṫa agus ṫug léim ruṫaiġ fé’n
 áit. Do ġluais sé tríd an aer go breáġ éadtrom seolta
 go dtí go dtáinig sé ós cionn na háite mar leagaḋ ċéana é.
+
 Leis sin do baineaḋ stad as, do caiṫeaḋ siar é agus do
 ṫuit sé anuas de ṫurraic. Ba ḋóiġ le Brian gurḃ
 aṁlaiḋ a rug faṫaċ mór do-ḟeicse air agus gur ṫeilg sé
 siar é, fé mar a ċaiṫfeaḋ garsún liatróid uaiḋ. D’éiriġ
 Seán agus d’ḟéaċ suas san aer agus síos ċun na talṁan.
+
 “ Sin é an niḋ is iongantaiġe d’á ḃfeaca riaṁ,” ar
 seisean. “Ṁoṫuiġeas mar a ḃeaḋ coṁaċt éigin ag
 bualaḋ im’ ċoinniḃ agus am’ ṫeilgean siar le fórsa. Mara
 mbeaḋ a éadtruime atáim, gortóċṫaí mé.”
+
 “Is léir ná fuil aon dul ṫairis an áit seo againn,”
+
 arsa Máirtín.
+
 “Tá bóṫar annsan ṫíos,” arsa Brian.
 “Tugaimís aġaiḋ ar an mbóṫar,” arsa an réaltóir.
 “ B’ḟéidir ná fuil cead ag daoine dul coṁgaraċ don
 ċaṫair tré sna páirceanna.”
+
 Ní raiḃ claiḋe ná sconnsa ar ṫaoḃ an ḃóṫair, ná ní
 de ċloċa cruaḋa a ḃí sé déanta, aċ de ṡubstaint ḃog ar
 nós ruibéir. -
+
 “Is breáġ an bóṫar é seo,” arsa Seán. “Ṫá sé
 ċoṁ bog le brat úrláir. Ní ṫiocfaḋ tuirse ar ḋuine dá
 mbeaḋ sé ag siuḃal air go ḟdeo.”
+
 “Tá daoine ċuġainn ar an mbóṫar,” arsa Máirtín.
 “Is suaraċ ṁion an sórd daoineṡ iad,” arsa Brian.
 “Leanḃaí iad, is dóiġ liom,” arsa an réaltóir.
+
 Ḃí an ceart aige. Ḋáréag éigin leanḃ a ḃí ann.
+
 Ḃí éadaiġe geala orṫa agus gan brat ná falaing ar aon
 duine aca. Do ċasadar isteaċ sa ṗáirc ar leaṫ-taoiḃ
 an ḃóṫair agus do ċromadar ar ṡúgraḋ ḋóiḃ féin. Iad
@@ -153,11 +204,15 @@ saoġalta. Do stad an ceaṫrar ċun éisteaċt leo. Ḃí
 glórṫa binne caola aca aċ toisc a éadtruime a ḃí an
 t-aer d’ḟċadfaidís gaċ aon niḋ a ċloisint go soiléir.
 ma ċualadar, níor ṫuigeadar.
+
 “ Ní haon teanga saogalta í sin atá aca,” arsa
 Máirtín i gceann tamaill.
+
 “Raġad-sa anonn ċúċa,” arsa Brian, “agus déanfad
 coṁarṫaí leo agus b’ḟéidir go dtuigfidís mé.”
+
 “ Tá go maiṫ, a ṁic,” arsa an réaltóir.
+
 Ar aġaiḋ le Brian i dtreo na leanḃaí, aċ ní raiḃ an
 tarna coiscéim tugṫa aige nuair do síneaḋ siar i lár an
 ḃóṫair é díreaċ mar do síneaḋ sa ṗáirc é. Ḋein sé an
@@ -171,16 +226,21 @@ leanḃaí saoġalta ag gáiriḋe fé ċleasuiḋe, lá aonaiġ.
 D’éiriġ Brian de’n talaṁ tar éis an ċúigiú leagaḋ
 a ḃaint as, agus ṫug aġaiḋ iorṫa go feargaċ. Ḃí garsún
 d’á aoirde féin orṫa, agus is leis sin a laḃair sé.
+
 “ Mara stadann tú de’n scigireaċt san, a ṗleiḋce
 amadáin,” ar seisean, “ brisfiḋ mé do ṗus.”
+
 Níor ḋein an garsún eile aċ scairt ṁór ġáiriḋe
 ċur as.
+
 “ Troid atá uait,” arsa Brian, agus do ċrom ar a
 ċasóig a ḃaint de. Rug a aṫair ar ġualainn air.
+
 “Go réiḋ, a ṁic ó,” ar seisean. “Ní ṫeastuiġeann
 uainn droċ-aigne na ndaoine a ṫarraing orainn. Agus
 ar aon ċuma ní le droċ-ṁúineaḋ ná le dailtíneaċt atá
 siad so ag gáiriḋe fút aċ le sult agus le haoiḃneas.”
+
 “ Déanfad-sa coṁarṫaí leo, féaċaint an dtuigfidís
 mé,” arsa Seán, agus do ḋruid sé oina dtreo. Do
 ḋruideadar san siar uaiḋ go haṁrasaċ fé mar a
@@ -188,16 +248,22 @@ mé,” arsa Seán, agus do ḋruid sé oina dtreo. Do
 ró-ċoṁgaraċ dóiḃ. Do lean Seán iad aċ má lean níorḃ
 ḟada go ḃfuair sé é féin sínte ar ḟleasc a ḋroma i lár
 an ḃóṫair.
+
 “Tá an donas ar an áit,” ar seisean go míċéadṫaċ.
+
 Fuair na leanḃaí ana-ṡult san obair. Ḃíodar ag
 tuitim ar a gcosaiḃ le greann is le gáiriḋe, agus d’á
 ṁéid fearg a ḃí ar Ḃrian ċúċa is eaḋ is- mó a ḃíodar ag
 scairteaḋ.
+
 Do leig Seán scread orṫa.
+
 “Éistiḋ,” ar seisean.
+
 Do stad an gáire nuair a ċuaLadar an glór árd
 agus d’ḟéaċadar air. Do laḃair Seán go breáġ mall
 soiléir.
+
 “Féaċaiḋ,” ar seisean. “Ṫángamar anuas ó’n
 spéir,” agus do ṡín sé a ṁéar ċun na spéire, “i
 n-eiteallán.” Ḋein sé coṁarṫaí le n-a ḋá láiṁ agus
@@ -207,13 +273,17 @@ aċ a méireanna féin a ṡíneaḋ ċun na speire agus crónán
 bog binn a ċur asta mar a ḋéanfaḋ saite beaċ. D’ḟéaĊ-
 adar ar Ṡeán annsan agus do ġáireadar leis, i leiṫ is
 go mbeidís á iarraiḋ air cleas eile a ḋéanaṁ dóiḃ.
+
 B’éigean dó éirġe as an iarraċt ar a soéal a ċur i dtuiscint
 doiḃ. 
+
 “Ní haon tairḃe ḃeiṫ leo,” arsa seisean. “Ceapann
 siad ná fuil ionnam aċ cleasuiḋe atá ag déanaṁ grinn
 dóiḃ.”
+
 “Ní haon ċaḃair dúinn ḃeiṫ ag iarraiḋ dul isteaċ
 sa ċaṫair seo aċ oiread,” arsa Máirtín. “Caiṫfimíd
 dul i n-áit éigin eile.”
+
 “Fanaiḋ nóimeat,” arsa an réaltóir. “Tá fear
 ċuġainn ar an mbóṫar.”
