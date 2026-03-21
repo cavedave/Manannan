@@ -1,4 +1,6 @@
-manannán
+[l.18]: #
+
+# manannán
 táimíd aim,” arsa an réaltóir, agus do leig sé
 osna cléiḃ.
 “ Is fearra ḋúinn na cealltair ġeasa a ċur orainn
