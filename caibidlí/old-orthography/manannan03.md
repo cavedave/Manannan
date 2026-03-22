@@ -11,7 +11,7 @@ ag cur gaċ aon niḋ i n-órdú agus i n-eagar i gcoṁair an
 turais éaċtaiġ a ḃí roimis.
  
 Ḃí tuitim na hoiḋċe ann agus ḃí na réilṫíní geala a
-dteasbáint féin san aer ina gceann is ina gceann. Ḃí
+dtaisebáint féin san aer ina gceann is ina gceann. Ḃí
 corrán gealaiġe croċta ós cionn na gcrann taoḃ ṫall
 de ṗáirc na n-eiteallán.
 
@@ -59,7 +59,7 @@ Agus ní hé sin is mó atá ag cur iongantais orainn, aċ
 gan sliġe a ḃeit ins na humair d’á ṫuille. Tá ag dul
 dinn bun ná barr a ḋéanaṁ de’n scéal, a ḋuine uasail.
 Cad a ḃéarfaḋ do ḋuine stóras ráiṫe de ḃiaḋ agus de
-ḋiġ A ḃreiṫ leis, agus gan a ḋóṫain petroil aige ċun
+ḋiġ a ḃreiṫ leis, agus gan a ḋóṫain petroil aige ċun
 é ċoinneáil san aer ar feaḋ aon leaṫ-lae aṁáin?”
 
 Ḃí aiṫne ag giollaí an aer-ṗuirt ar Ṡeán le fada,
@@ -81,7 +81,7 @@ a ḃéarfaḋ as so go Lonndan Ṡasana é.”
 arsa duine eile, “agus go raġaiḋ sé faid ṁór sliġe
 i n-aġaiḋ an ġalúin.”
 
-“Ḋeineas na hinnill d’inḟiúċaḋ,” arsa an ċéad
+“D’ḟéineas na hinnill d’inḟiúċaḋ,” arsa an ċéad
 ḟear. “Innill Rolls iad de’n tsaġas is fearr agus is
 daoire le fáil, aċ níl aon nuaḋaċt ionnta. Ní ḋéanfaiḋ
 siad aon ḟaid sliġe i n-aġaiḋ an ġalúin de ḃreis ar aon
@@ -153,7 +153,7 @@ leaḃar cúntais gur ḟágamar an t-aer-ṗort ar a seaċt a
 
 Isteaċ leis an dtriúr aca i gcábán an eitealláin.
 Do daingniġeaḋ an doras agus do scaoileaḋ na hinnill
-ċun siuḃail. Ḋó ġluais an t-eiteallán fan na talṁan
+ċun siuḃail. Do ġluais an t-eiteallán fan na talṁan
 ar feaḋ tamaillín agus d’éiriġ san aer ċoṁ héadtrom
 seolta le fáinleóig.
 
@@ -186,7 +186,7 @@ ag imṫeaċt as béal gunna.
  
 “Tá an méid sin déanta againn,” arsa Seán.
 
-“Agus é déanta go maiṫ againn,” arsa an realtóir.
+“Agus é déanta go maiṫ againn,” arsa an réaltóir.
 
 “Tá ceist agam le cur ċuġat, a Ṁic Uí Ḟlaiṫiṁ,”
 arsa Seán, “agus b’ḟéidir nár ṁiste í ċur anois ċuġat.”
@@ -240,7 +240,7 @@ gréine tá sé ar an dtaoḃ amuiġ de ċúrsa na cruinne
 
 [l.38]: #
 seo againne. D’á ḃrí sin is sia é ná cúrsa an doṁain.
-Rá Manannán roṁainn amaċ fé láṫair, aċ ní fada go
+Tá Manannán roṁainn amaċ fé láṫair, aċ ní fada go
 ngeoḃaiḋ an doṁan ṫairis amaċ, agus nuair a ḃeimíd
 ag filleaḋ aḃaile i gceann ráiṫe beiḋ sé roṁainn amaċ
 direaċ mar atá Manannán roṁainn amaċ anois.”
@@ -382,7 +382,7 @@ Do ṗreab an réaltóir ina ṡeasaṁ.
 
 “Cad is cúis leis sin?” arsa Seán.
 
-“Sé is cúis leis, a ṁic ó,” arsaan réaltóir, “ná
+“Sé is cúis leis, a ṁic ó,” arsa an réaltóir, “ná
 go ḃfuil an ḃeart déanta againn. Táimíd tagaiṫe ċun
 
 [l.42]: #
@@ -399,7 +399,7 @@ t-aṫair. “Táimíd ag gaḃáil anois tríd an mbrat geasa
 atá timċeall air. Nuair a ḃeiḋ gaḃṫa againn átríd an
 mbrat san beiḋ raḋarc againn ar Ṁanannán féin.”
 
-Dob ḟíor dó. Do neartuiġ ar an gcoṁaċt a ḃí á
+D’ḃí ḟíor dó. Do neartuiġ ar an gcoṁaċt a ḃí á
 dtarraing anuas, agus do neartuiġ ar an solas go dtí
 go raiḃ sé ċoṁ geal leasmuiġ de’n eiteallán agus a
 ḃíonn le linn an ċéad aṁascarnaiġ de ṡolas na maidne

@@ -31,4 +31,9 @@ This list records recurring corrections we agree to apply while proofreading old
 - `Ta` / `ta` (missing acute) before predicate -> `Tá` / `tá` (copula)
 - `d aon` in `d’aon ghuth` / `d’aon` -> `d’aon` (one apostrophe)
 - `na baineann` / `se` / `doman` in “you know (that) it only takes a year…” contexts -> often `go mbaineann sé` … `doṁan` (confirm verb against PDF: `dtógann` etc.)
+- `dteasbáint` -> `dtaisebáint` (verbal noun “showing/displaying”; OCR letter confusion)
+- `arsaan` -> `arsa an` (missing space in `arsa an`)
+- `Dob ḟíor` -> `D’ḃí ḟíor` (“it was true”)
+- `Rá` at sentence start before noun (copula sense) -> `Tá` when meaning “is”
+- `Ḋeineas` (context: “I examined…”) -> `D’ḟéineas` (confirm against PDF; alternative forms may exist)
 
