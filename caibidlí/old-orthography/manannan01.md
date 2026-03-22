@@ -38,9 +38,9 @@ Ba ḋóig le duine, áṁṫaċ, gur ṫuig an réaltóir an rud a
 ag lonnraḋ sa spéir san oiḋċe, creidfead go ḃfuil sí
 ann,” arsa Seán.
 
-“D’ḟéaċ an réaltóir air ar feaḋ isnóimitín aGUs
+“D’ḟéaċ an réaltóir air ar feaḋ nóimitín agus
 iarraċt d’ḟeirg air, aċ annsan do ċaiṫ sé a ċeann siar.
-agus do ċuir gáire as.
+Agus do ċuir gáire as.
 
 “Bíoḋ foiḋne agat go fóill beag,” ar seisean,
 “agus ċífir í.”
@@ -114,7 +114,7 @@ Ní duḃairt a mbéal aon ḟocal, áṁṫaċ.
 Is maiṫ a ṫuig an réaltóir an rud a ḃí ina n-aigne aca.
 
 “Is dóiġ liḃ gur as mo ṁeaḃair atáim,” ar seisean,
-“aċ bíoḋ foiḋne agaiḃ. agus léireoċad daoiḃ ná fuil
+“aċ bíoḋ foiḋne agaiḃ. Agus léireoċad daoiḃ ná fuil
 mire ná mearṫall orm. Ní ḋéanfad a ṫuille boġríní ar
 an scéal aċ é innsint daoiḃ díreaċ fé mar atá.
 
@@ -153,7 +153,7 @@ féin.”
 Anonn leis do’n ċoṁrainn daingin a ḃí i gcúinne
 de’n tseomra, agus do ḃain an glas di. Ḃí carn
 páipéar sa ċoṁrainn. Do ṫóg sé na páipéir ina láiṁ agus
-do noċt bosca beag iarainn fúṫa. Ḋo ṫóg sé an bosca
+do noċt bosca beag iarainn fúṫa. Do ṫóg sé an bosca
 as an gcoṁrainn agus ṫáinig ṫar n-ais ċun a’ċaṫaoireaċ.
 Ḃain sé eoċair ḃeag as a ṗóca agus d’oscail an bosca.
 Ḃí seana-ṗár istiġ ann. Do ċróm an ḃeirt eile níos
@@ -181,7 +181,7 @@ cruinn beaċt agus a ḋéanfainn féin iad.”
 agus an dá ṡúil ag dul amaċ as a ċeann le hiongantas
 an scéil.
 
-“Táid go leir ann go cruinn is go beaċt,” arsa an
+“Táid go léir ann go cruinn is go beaċt,” arsa an
 réaltóir arís. “Aċ tá rud ar an gcairt sin a ċuir
 iongantas orm-sa an ċéad uair a ċonnac í. Tá pláinéid
 uirṫe de breis ar na cinn atá ar eolas againne.”
