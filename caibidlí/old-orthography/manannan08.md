@@ -10,7 +10,6 @@ Leis sin do hosclaḋ doras an halla agus ṫáinig
 an sean-ollaṁ isteaċ. Ḃí féaċaint ana-ġruamḋa ar a
 ġnúis..
 “Daor-ḃreiṫ, gan aon agó,” arsa Seán.
-
 Do laḃair Ámón leo agus do Laḃair go mí-ṡásta agus
 go díombáiḋeaċ.
 “Is oṫ liom a ráḋ, a ċáirde,” ar seisean, “ná fuil
@@ -34,8 +33,7 @@ arsa Brian.
 “Ná bíoḋ aon ḃuaḋairt ort, a ṁic,” arsa an réaltóir.
 “Ní fada go scaoilfear saor sinn. ’Níl aon ċúis aaa
 orainn.”
-
-Do ċuir oifigeaċ na saiġdiúirí isteaċ air go
+Do ċuir oifigeaċ na saiġdiúirí isteaċ air igo
 huġdarásaċ.
 “Ṁolfainn duit gan aon ċaint a ḋéanaṁ id’
 ṫeangain féin,” ar seisean. “.Pé rud atá agat le ráḋ
@@ -72,7 +70,6 @@ uaċtair a ḋ’ḟáil orṫa so,” arsa Seán agus do leig osna
 cléiḃ. i.
 “Ní ḃeaḋ ḟios agat cad a ḋéanfaimís aċ.ċur ċuige,”
 arsa Brian.
-
 B’éigean do’n réaltóir géilleaḋ ḋóiḃ. Do lean sé
 an ċuid eile agus ualaċ ar a ċroiḋe.
 Isteaċ i seomra ḃeag daingean a tugaḋ iad agus do
@@ -91,14 +88,12 @@ Do stad an tógaċán i gceann tamaiLL, agus ṫángadar
 sa ḃfalla agus do hosclaḋ doras.
 “Isteaċ liḃ,” ar seisean, agus do ḋún sé an doras
 iiia ndiaiḋ.
-
 Fuaireadar iad féin i seomra leaṫan fairsinĠ, agus
 Gan de ṫroscán ann aċ roinnt ṡuiḋeaċán fan na ḃfallaí.
 Ní raiḃ aon ḟuinneóga ann, aċ ḃí gléas ar barra ċun AN
 t-aer -a leigint isteaċ is amaċ, agus ḃí ráiL de ṁiotal
 Geal fan na ḃfallaí timċeaLL agus í ag taḃairt solais
 uaiṫe.
-
 Ċoṁ luaṫ agus dó dúnaḋ an doras ina ndiaiḋ do
 ṗreab Seán anonn ċuige agus d’inḟiúĊ go géar é. Ní
 raiḃ cnaipe ná laiste le feiscint ann. Ní r’aiḃ oiread
@@ -139,7 +134,6 @@ féaċaint an ḃféadfaí aon eolas a ṁeallaḋ uaiḋ. Ní
 Cad a déanfar annsan Leis? B’ḟéidir go ndéanfar
 leis mar a deintí le príosúnaiġ anallód ċun iad a ċur ag
 caint.”
-
 Do ḃris an fuar-allus amaċ ar a ḃaiṫeas agus é ag
 cuiṁneaṁ ar an gcuma ina ndeintí príosúnaiġ a ċéasaḋ
 agus a ṁilleaḋ sa tsean-aimsir Ċun a ċur d’ḟiaċaiḃ
@@ -168,7 +162,6 @@ so a ṫángais? ” í
 “Á, ḃuel,” arsa Seán, “mara ḃfuiltear ċun cead
 ár gcos a ṫaḃairt dúinn ní.misde cead ár:ḃfiacail a
 ḃeiṫ againn.”
-
 Le n-a linn sin ṫáinig beirt de sna saiġdiúirí isteaċ
 agus miasa móra bíḋ á n-iomċar aca. Ḃí ocras ar
 Ṁáirtín agus ar Ṡeán, aċ níor ḟéad an réaltóir greim
@@ -191,7 +184,6 @@ seisean agus do ḃain sé paca cártaí as a ṗóca.
 Ní ḃfuair sé aon ḟreagra ó’n mbeirt eile, agus
 ar ball beag do ḋún sé a ḋá ṡúil agus do ṫuit a Ċodlaḋ
 air.
-
 Níor cuireaḋ ċúċa ná áuaṫa go ceann tamaill ṁaiṫ
 ina ḋiaiḋ san, a’ċ nuair a ḃí sé i n-árd an tráṫnóna do
 hosclaḋ an doras agus cé ṗreabfaḋ ċúċa. isteaĊ aċ
@@ -215,7 +207,6 @@ as so.”
 “Agus ar ċuiṁniġ siḃ ar aon niḋ? ” arsa Seán.
 “Níor ċuiṁniġeamar ar aon niḋi fós. Aċ ná bíoḋ
 droċ-ṁisneaċ oraiḃ. Déanfaimíd an ḃeart.”
-
 “Is mairg a ḃíonn ṫíosag an gcéad ḃeárnain,”
 arsa Seán.
 “Taḃair aire ḋuit féin ar aon ċuma,” arsa an
@@ -227,7 +218,6 @@ agam fara Nící.”
 “An fada a coimeádfar annso sinn? ” arsa Máirtín.
 “Imṫiġiḋ oraiḃ, a ġarsúna,” arsa Ámón. “Ba
 ṁaiṫ liom Laḃairt Leis na fir go fóiLL beag.”
-
 D’ḟáisc Brian Láṁ a aṫar agus é ag imṫeaċt.
 “Ná bíoḋ ceist ort, a ḋaid,” ar seisean. “Ní
 fada go mbeir saor as so.”
@@ -264,8 +254,7 @@ orṫa aċ iad a ḋísciú suL a ndísceofaí sinn. Aċ ní gaḋ
 [1.96]: #
 
 triúr fear a ċur- ċun ḃáis ċun a ċuir as a gcumas aon
-díogḃáiL a ḋéanaṁ dúinn.”
-
+díogḃáiL a ḋéanaṁ dúinn. ”
 “Comis a cuirfear as ár gcumas díoġḃáil a ḋéanaṁ
 díḋ? "arsa Máirtín go réiḋ.
 Ní ḃeiḋ le déanaṁ aċ coṁa-ċt ḃúr n-aigne a ċur
@@ -301,8 +290,8 @@ coṁaċt ár n-aigne a ċur ar neaṁ-ḃrí agus a aigne féin.
 a cur i ḃfeiḋm orainn. B’ḟéidir gur cuireaḊ drog
 éigin sa ḃiaḋ a iṫeamar ó ċianaiḃ, agus go rAĠAIḊ d’ár
 meaḃair do réir a ċéile, nó b’ḟéidir go dtiocfar orainn
-nuair a ḃeimíd inár gcodlaḋ anoċt agus ná beiḋ cuiṁne
-ar biṫ againn orainn féin nuair a ḋúsiseoċaim-íD ar maidin
+nuair a ḃeimíd inár gcodlaḋ anoċt ag-.us ná beiḋ cuiṁne
+ar bi-ṫ againn orainn féin nuair a ḋúsiseoċaim-íD ar maidin
 amáireaċ.”
 “Duḃairt Ámón go dtaḃarfar caoi ḋó féin ar
 - ḟírinne ár scéil a.ċruṫú ar dtúis..Ní baoġal dúinn go
