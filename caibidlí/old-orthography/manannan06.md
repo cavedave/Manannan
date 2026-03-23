@@ -9,7 +9,7 @@ go crónánaċ i lár gaċ sráide aca.
 
 Aċ ní né sin is mó a ċuir iongnaḋ ar na cuairteóirí,
 aċ an dá ċasán a ḃí ar imeall gaċ sráide. Ḃí casán
-aṁáin díoḃ taoḃ leis na tiġṫe, agus is air sin a ṡiiiḃlaḋ
+aṁáin díoḃ taoḃ leis na tiġṫe, agus is air sin a ṡiuḃlaḋ
 na daoine ná bíoḋ aċ turas gairid le cur díoḃ aca.
 Leasmuiġ ḋe sin ḃí casán eile agus é ag síor-ġluaiseaċt
 fan an talaiṁ, ionnas ná bíoḋ le déanaṁ ag duine aċ
@@ -17,28 +17,28 @@ dul i n-áirde air agus b’ṡeo ar aġaiḋ leis. Ní raiḃ bus
 ná rian-Ċarr ar na sráideanna, aċ ḃí suiḋeaċáin ar na
 casáin agus ṡuiḋeaḋ na daoine ionnta, agus do
 hoscluiġtí foṫanáin ós a gcionn nuair a ḃíoḋ sé ag
-báistiġ. Stadaḋ na oasáin de’n ġluaiseaĊt ó am go
+báistiġ. Stadaḋ na casáin de’n ġluaiseaċt ó am go
 ham ċun caoi a ṫaḃairt do sna daoine ar ḋul i n-áirde
 orṫa nó teaċt anuas díoḃ do réir mar ba ṁian leo.
 Ḃí an casán ar an dtaoḃ ḋeir de gaċ sráid ag gluaiseaċt
 i dtreo na caṫraċ agus an casán ar an dtaoḃ ċlé ag
-gLuaiseaċt ó’n gcaṫair amaĊ, agus ní ḃíoḋ le déanaṁ ag
+ġluaiseaċt ó’n gcaṫair amaċ, agus ní ḃíoḋ le déanaṁ ag
 duine aċ dul i n-áirde ar pé taoḃ a oireaḋ dó.
 
 Ba ḃreáġ le Brian na casáin sin. Ṫaḃarfaḋ sé an
-lá ar fad ar imarcuiḋeaĊt orṫa dá leigtí dó é, aċ ní
+lá ar fad ar imarcuideaċt orṫa dá leigtí dó é, aċ ní
 
 [1.69]: #
 
 ṫaḃarfaḋ an t-aṫair cead dó ċun dul i n-aon áit gan an
 ċuid eile a ḃeiṫ i n-éinḟeaċt leis.
 
-“Nuair a ḃeiḋ eoLas maiṫ agat ar an áit agus an
+“Nuair a ḃeiḋ eolas maiṫ agat ar an áit agus an
 teanga ar do ṫoil agat,” ar seisean, “ beiḋ cead agat
 dul amaċ id’ aonar, aċ idir an dá linn caiṫfir fanaċt i
 dteannta na cod’ eile againn. Is fearr atá an teanga
 agat-sa ná mar atá sí ag éinne againne, aċ níl do ḋótain
-di agat ċun eoLas na sliġe aḃaile a iarraiḋ ar éinne dá
+di agat ċun eolas na sliġe aḃaile a iarraiḋ ar éinne dá
 dtéiġṫeá amuġa.”
 
 “Ní baoġal dom, a aṫair,” arsa Brian. “Ná bíonn
@@ -51,18 +51,18 @@ dtéiġeaḋ sé, agus é ag taḃairt gaċ aon eolais dó. D’á
 
 “Is é rud is mó atá ag cur iongantais orm-sa,
 a aṫair,” arsa Brian, uair, “aċ ná feacamar an ġrian ó
-ṫángamar annso, agus ná bíonn an ré ná na réaLta san
+ṫángamar annso, agus ná bíonn an ré ná na réalta san
 aer ist oiḋċe.”
 
 “Ní ḟeacais grian ná re ó ṫángais,” arsa an t-aṫair,
 “ná ní ḟeicfir iad go dtí’go n-imṫeoċair as so. Náċ
 cuiṁin leat an brat geasa san atá Leasmuiġ de’n
-ṗLáinéid seo?”
+ṗláinéid seo?”
 
 “Is cuiṁin.”
 
 “Tá an brat san idir an áit seo agus an ġrian.
-Leigeann sé an soLas tríd isteaĊ. Mara mbeaḋ go
+Leigeann sé an solas tríd isteaċ. Mara mbeaḋ go
 
 [1.70]: #
 
@@ -76,7 +76,7 @@ riaṁ?” arsa Brian agus árd-iongnaḋ air.
 Is é is dóċaige gur dóiġ leo ná fuiL pláinéid ná reann
 neiṁe ar biṫ ann aċ Manannán aṁáin.”
 
-Fuair sé amaĊ ina ḋiaiḋ san go raiḃ an ceart aIge
+Fuair sé amaċ ina ḋiaiḋ san go raiḃ an ceart aige
 sa tuairim sin.
 
 BA ġearr gur buaileaḋ. isteaċ ina n-aigne gur ċuma
@@ -117,31 +117,31 @@ doras isteaċ. Agus dá ṁéid iarraċt a ḋeineas ar a
 aiḃléise is eaḋ is mó a ċoisc sé mé ar ḋuL isteaċ.”
 
 “Is agat-sa is fearr atá teanga na ndaoine seo,”
-arsa an réaLtóir le Brian. “Fiafruiġ de Látós cad ’na
+arsa an réaltóir le Brian. “Fiafruiġ de Látós cad ’na
 ṫaoḃ ná leigfeaḋ sé sinn isteaċ sa tiġ ina ngeintear
 an aiḃléis.”
 
 Do ċuir Brian an ċeist ar an ḃfear mór, ċoṁ maiṫ
-agus d’ḟéad sé é. Níor ḋein seisean, áṁṫaċ, aċ a ġuaiLne
+agus d’ḟéad sé é. Níor ḋein seisean, áṁṫaċ, aċ a ġuailne
 a ċroṫaḋ agus a leigint air nár ṫuig sé é.
 
 “Níl aon ṗioc de’n áit feiciṫe againn, aċ aṁáin an
 ċaṫair féin,” arsa an réaltóir. “Ba ṁaiṫ liom-sa an
 dúṫaiġ mágcuairt a ḟeiscint ċoṁ maiṫ.” Águs nuair a
 ḃíodar ag fágaint an tiġe, maidin amáireaċ a ḃí ċuġainn,
-i n-ionad casaḋ isteaċ ċun na caṫraċ ṫug an réaLtóir
+i n-ionad casaḋ isteaċ ċun na caṫraċ ṫug an réaltóir
 aġaiḋ ar an gcasán a ḃéarfaḋ ó’n gcaṫair amaċ é.
 
-Níor ḋein látós aċ breiṫ air ina ḃacLainn agus é
+Níor ḋein Látós aċ breiṫ air ina ḃaclainn agus é
 iomċar treasna na sráide agus é ċur i n-áirde ar an
-gcasán ar an dtaoḃ eiLe. Do ḋuḃuiġ agus do ḋearguiġ
+gcasán ar an dtaoḃ eile. Do ḋuḃuiġ agus do ḋearguiġ
 ar an réaltóir le feirg, aċ níor ḟéad an ċuid eile aca
 
 [1.72]: #
 
 gan gaire a ḋeanaṁ nuair a ċonnacadar an fear mór á
 árdaċ ims ina ḃaclainn mar a árdóċaḋ sé páiste.
-Ġladadar coṁairle le ċéiLe an oiḋċe sin.
+Ġlaḋadar coṁairle le ċéile an oiḋċe sin.
 
 “Ṫá sċ ċoṁ maiṫ againn é adṁáil,” arsa an réaltóir.
 
@@ -187,12 +187,12 @@ na leanḃaí ag súgraḋ an lá a ṫángadar. An oiḋċe
 féin ċun dul a ċodlaḋ. Oiḋċe ḃreáġ ḃroṫallaċ a ḃí ann
 agus ḃí fuinneóg an tseomra ar dian-leaṫaḋ aige. Ḃí
 solas an lampa aiḃléise mar a ḃeaḋ ciorcaL geal ar an
-séileáil. D’eiteal peiḋLeacán an ḟuinneóg isteaĊ, agus
+séileáil. D’eiteal peiḋleacán an ḟuinneóg isteaċ, agus
 do ċrom ar ḃoġsíní a ḋéanaṁ timċeall an lampa.
 Peiḋleacán mór ioldaṫaċ a ḃí ann, de ṡaġas ná feictear
 riaṁ ar an saoġal so, agus Ġduḃairt Brian leis féin go
 mbéarfaḋ se air agus go dtaḃarfaḋ sé leis aḃaile é
-ċun é ṫeasbáint do sna garsúin eiLe ar scoil.
+ċun é ṫeasbáint do sna garsúin eile ar scoil.
 
 Ḃí sé tar éis líontán beag a ḋéanaṁ an lá san d’aon
 ġnó ċun breiṫar na peiḋleacáin. Anonn Leis ċun an
@@ -240,13 +240,13 @@ iad sa meid go raiḃ iliomad cos fúṫa agus sliogáin
 ṁóra ċruaḋa ar a ndrom. Aċ ḃí scrugaLL de ṁuineáL
 fada caoL ar gaċ ceann aca agus aġaiḋ ar gaċ scrugaLL
 díoḃ mar a ḃeaḋ ar ápa nó ar ḟaṫaċ ḟíor-ġránda. Ċonnaic
-Brian a súile beaga niṁneaċa ag gLinneaṁaint air sa
-doirċeaĊt. Taiḋḃisiġeaḋ dó go raiḃ na céadṫa aca
+Brian a súile beaga niṁneaċa ag glinneaṁaint air sa
+doirċeaċt. Taiḋḃisiġeaḋ dó go raiḃ na céadṫa aca
 ann agus iad ag briseaḋ agus ag réabaḋ gaċ aon niḋ
 rómpa mar a ḋéanfaḋ gléasanna móra cogaiḋ. Ṫuig
 sé go ḃféadfaidís tiġṫe agus fallaí agus aon niḋ eile a
 ḃeaḋ rómpa a ṫreascairt ċoṁ saoráideaċ agus a ḟéadfaḋ
-sé féin sataiLt ar ḃroḃ féir. Aon ḟéaċaint aṁáin a
+sé féin satailt ar ḃroḃ féir. Aon ḟéaċaint aṁáin a
 ṫug fé orṫa agus as go bráṪ leis ċoṁ dian agus a ḃí
 ina ċroiḋe. Do leanadar-san é agus siuḃal niṁe fúṫa.
 Ḃíḋodar coṁ coṁgaraċ san dó gur ḃraiṫ sé a mbréan-anál

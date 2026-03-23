@@ -63,7 +63,7 @@ an nduine a ḃíonn ag faire.”
 “Tuigim,” arsa Seán arís.
 
 “An ḃfeiceann tú an seastán san sa ċúinne?”
-arsa an fear eile. “Air sin a ḃíonn an realtóir nuair
+arsa an fear eile. “Air sin a ḃíonn an réaltóir nuair
 
 [l.20]: #
 a ḃíonn sé ag faire tríd an gciandracán. Ní ró-ċompórdaċ 
@@ -72,7 +72,7 @@ aċ tá roṫaí fé agus is féidir é ḃogaḋ timċeall an tseomra
 gan aon duaḋ. Tá gaċ aon niḋ feiciṫe agat anois, is
 dóiġ liom.”
 
-“Ta, aċ aṁáin na ciandracáin.”
+“Tá, aċ aṁáin na ciandracáin.”
 
 “Ċífir iad san láiṫreaċ. Seo leat, a Ṁáirtín,”
 ar seisean leis an ḃfear eile, “féaċ tríd an gceann so.”
@@ -88,12 +88,12 @@ Do ṡocruiġ Máirtín é féin ar an seastán, agus
 ní raiḃ le clos san áit ar feaḋ tamaillín aċ tic-tic an
 ġléis a ḃí ag díriú an ċiandracáin.
 
-“Féaċ tríd an gceann eile anois,” arsa an rt-alṫóir.
+“Féaċ tríd an gceann eile anois,” arsa an réaltóir.
 
 Do ċuir sé an ciandracán eile i ḃfearas agus do
 ḋruid an seastán anonn ċuige.
 
-“Seaḋ anois,” ar seisean, “tá sé díriġṫr ar an
+“Seaḋ anois,” ar seisean, “tá sé díriġṫe ar an
 áit ċéadna.”
 
 D’ḟéaċ Máirtín tríd an gciandracán. Ní túisce
@@ -116,7 +116,7 @@ do ċuir sé i ḃfearas dó é. Do leaṫ na súile ar Ṡeán.
 Ḃí sí annsúd ós coṁair a ḋá ṡúl amaċ, an ṗláinéid ba
 ḋeise agus ba ġile d’á ḃfeaca sé riaṁ. Ḃí solas liaṫ-ġorm 
 airgeadṫa ag lonnraḋ aiste agus do ċeap Seán
-ná feaca sé riaṁ aon niḋ ċoṁ háluinn léi. Ḋo laḃair
+ná feaca sé riaṁ aon niḋ ċoṁ háluinn léi. Do laḃair
 an réaltóir leis i gceann tamaill.
 
 “Féaċ uirṫe tríd an gciandracán eile arís,” ar
@@ -143,7 +143,7 @@ feaḋ tamaill ḟada ag féaċaint ar an bpláinéid agus é
 [l.22]: #
 ag déanaṁ iongantais di, a ġile a ḃí sí, a ṡolasṁaire
 a ḃí sí, a áilne a ḃí sí. Anonn leis ċun an ċiandracáin
-eile annsan agns d’ḟéaċ tríd. Ní raiḃ rud ar biṫ ann.
+eile annsan agus d’ḟéaċ tríd. Ní raiḃ rud ar biṫ ann.
 D’ḟéaċ sé ar an réaltóir agus do ṫoċas a ċeann.
 
 “Tá ag dul díom bun ná barr a ḋéanaṁ de’n scéal,”
@@ -264,7 +264,7 @@ an solas air.
 “Féaċaiḋ,” ar seisean arís. “Sin é cúrsa na
 cruinne seo timċeall na gréine, agus sin é cúrsa
 Ṁanannáin taoḃ amuiġ ḋe, idir an doṁan so agus Mars.
-Tá Manannán annsúd anois, féaċ, agus ta an doṁan
+Tá Manannán annsúd anois, féaċ, agus tá an doṁan
 san áit seo mar a ḃfuil mo ṁéar. I gceann bliana is
 mar seo a ḃeiḋ siad, féaċ. Ċíonn siḃ go mbeiḋ siad
 níos coṁgaraiġe d’á ċéile, de roinnt ṁaiṫ milliún míle,
@@ -289,7 +289,7 @@ cruinne seo ar aġaiḋ as san amaċ sinn.”
 
 “Conus san ?” arsa Seán.
 
-“Ta fios agat na baineann se aċ bliain de’n doman
+“Tá fios agat ná mbaineann sé aċ bliain de’n doṁan
 so a ċúrsa timċeall na gréine a ċur de.”
 
 “Tá ḟios san agam.”
@@ -418,7 +418,7 @@ orṫa.
 
 “An dtiocfaiḋ siḃ liom?” ar seisean.
 
-“Tiocfaimid,” arsa an ḃeirt d aon guṫ.
+“Tiocfaimid,” arsa an ḃeirt d’aon guṫ.
 
 [l.30]: #
 
@@ -429,7 +429,7 @@ Do ċaiṫ an triúr fear cúpla uair a ċluig eile ag
 caint agus ag socrú gaċ aon niḋ i gcoṁair an turais a
 ḃí beartuiġṫe aca. Ḃí sé i n-am ṁairḃ na hoiḋċe sul
 ar scaradar ó na ċéile. D’ḟág Seán agus Máirtín slán
-ag an realtóir agus do ḃuaileadar amaċ sa tsráid.
+ag an réaltóir agus do ḃuaileadar amaċ sa tsráid.
 D’ḟéaċ Seán suas ar na réalta geala a ḃí ar criṫ san
 aer ós a ċionn i n-áirde. Ḃí oiread san ann díoḃ go
 dtáinig meaḋḃán ina ċeann agus é ag féaċaint orṫa.

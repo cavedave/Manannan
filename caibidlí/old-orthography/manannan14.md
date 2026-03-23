@@ -1,6 +1,7 @@
 [l.166]: #
 
-Díoġaltas
+# Díoġaltas
+
 Ní go ró-ṁoċ a éiriġ Brian ná Nící ar maidin amáireaċ
 a ḃí ċuġainn, agus nuair a ċuadar isteaċ sa tseomra
 bíḋ ḃí an triúr fear suiḋte ċun búird agus iad ag iṫe a
