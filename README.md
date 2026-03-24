@@ -55,14 +55,8 @@ Mark page numbers  with a reference like this `[l.31]: #` for *leathanach 31*. T
 ## Contents of This Repo
 
 ### Assets
-- **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (full 188-page version exceeds GitHub size limit)
-- **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
-- **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
-- **Manannán_15-20_tg.txt** pages 15-20
 - **Manannán.jpg** JPEG image of the cover
 - **Manannán.png** Loseless high resolution image of the cover
-
-Pages 9–18 cover the start the first chapter (Pláinéid na feaca Súil Duine riamh). Page 13 appears in both files as a transition.
 
 ### caibidlí
 - The chapters as raw PDF scans and text
