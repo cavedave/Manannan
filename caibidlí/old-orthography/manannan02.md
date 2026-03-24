@@ -1,6 +1,6 @@
 [l.18]: #
 
-# An Raḋarc tríd an gCiandracán
+# An Raḋarc tríd an gciandracán
 
 Ní raiḃ de ṡolas i dtiġ na gciandracán aċ léas
 beag lag a ḃí ag teaċt isteaċ tré oscailt a ḃí i
