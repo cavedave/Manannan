@@ -1,6 +1,6 @@
 [1.76]: #
 
-# an tárd-ṁáiġistir
+# An tÁrd-Ṁáiġistir
 
 Do stadaḋ de’n ruaig go hobann. Féaċaint d’á
 dtug Brian ṫar a ġuaLainn ċonnaic sé go raiḃ

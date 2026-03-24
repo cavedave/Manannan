@@ -1,6 +1,6 @@
 [l.87]: #
 
-# An Príosún
+# An Priosún
 
 Ṫug an t-oifigeaċ órdú d’á ċuid fear agus do
 ċromadar ar ṁáirseáil isteaċ sa tiġ. Ċuala an

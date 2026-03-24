@@ -1,6 +1,6 @@
 [l.110]: #
 
-# an tinneall
+# An tInneall
 
 Aon tsúil-ḟéaċaint aṁáin a ṫug na garsúin timċeall
 an tseomra agus ar ċrapaḋ na súl ḃíodar de léim

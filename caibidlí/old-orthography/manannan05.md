@@ -1,6 +1,6 @@
 [l.53]: #
 
-# muintear ṁanannáin
+# Muintear Ṁanannáin
 
 Óigḟear daṫaṁail deis-shéasaṁ a ḃí ann. Gruaig
 ḟionn-órḋa ar a ċeann, paca beag ar a gualainn

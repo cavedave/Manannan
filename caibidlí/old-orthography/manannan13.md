@@ -1,6 +1,6 @@
 [l.151]: #
 
-# An Troid leis na Cráiḋmí
+# An Tróid leis na ‘Cráiḋmí’
 
 Ḃí ḟios ag Brian gur ċun na Cráiḋmí a ḋísciú a deineaḋ
 an róbot, aċ d’imṫiġ an oiḋċe sin agus ḋá oiḋċe

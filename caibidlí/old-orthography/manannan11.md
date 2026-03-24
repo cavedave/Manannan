@@ -1,6 +1,6 @@
 [l.124]: #
 
-Oiḋċe ṫar oiḋċeanta
+# Oiḋċe ṫar Oiḋċeanta
 
 Ar aġaiḋ leis an mbeirt ġarsún, an bogaċ mealltaċ
 Ar ṫaoḃ aṁain díoḃ agus an cnoc géar árd ar an
