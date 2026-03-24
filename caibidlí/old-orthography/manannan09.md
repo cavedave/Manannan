@@ -276,7 +276,7 @@ anuas air.
 Rug Nící ar ġualainn air, agus do ċuir cogar ina
 ċluais.
 
-“Éist,” ar seisean, “ta duine éigin ċuġainn.”
+“Éist,” ar seisean, “tá duine éigin ċuġainn.”
 
 D’ḟan an ḃeirt ina ḋá stalca gan cor a ċur asta,
 agus níorḃ ḟada go ḃfeacadar an fear ag éalóḋ tré

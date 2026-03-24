@@ -211,7 +211,7 @@ Brian.
 
 “Duine de náiṁde an Árd-Ṁáiġistir é,” arsa
 Nící. “Is minic a ċuala mo ṡean-aṫair ag cur síos orṫa.
-Ta caṫair aca ar an dtaoḃ ṫall de sna cnuic. Tá éad
+Tá caṫair aca ar an dtaoḃ ṫall de sna cnuic. Tá éad
 aca linne toisc gur saiḋḃre agus gur coṁaċtaiġe sinne
 ná iad féin. Níl aċ talaṁ ḃoċt lom i measc na gcnoc,
 gan cloċa luaċṁara ná mianraiġe d’aon tsaġas innte.
