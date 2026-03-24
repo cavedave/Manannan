@@ -1,6 +1,6 @@
 [1.68]: #
 
-# na ‘cráiḋmí’
+# Na ‘Cráiḋmí’
 
 Catair aoiḃinn áluinn ab eaḋ í. Ḃí imeall gaċ
 sráide maisiġṫe Le bláṫanna agus le tuir

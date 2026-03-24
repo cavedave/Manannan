@@ -1,6 +1,6 @@
 [l.137]: #
 
-# “Luġ Láṁ-ḟada”
+# ‘Luġ Láṁ-ḟada’
 
 Ḃi árd an tráṫnóna ann nuair a ḋúisiġ Brian as a
 ċodlaḋ, agus b’é céad duine a ċonnaic sé nuair a

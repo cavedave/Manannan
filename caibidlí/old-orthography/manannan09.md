@@ -1,6 +1,6 @@
 [l.98]: #
 
-# oiḋċe sa ċoill
+# Oiḋċe sa Ċoill
 
 Nuair a bhí an ḃeirt ġarsún ag fágaint an ṗríosúin
 cé casfaí orṫa sa tsráid aċ fear go raiḃ éide
