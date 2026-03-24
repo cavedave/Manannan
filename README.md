@@ -34,7 +34,14 @@ If you spot errors in the extracted text, please open an issue or submit a pull 
 
 ## Plan
 1. Accurate transcription of the PDF in old orthography
-2. Adapt to new orthography and An Caighdeán Oifigiúil
+2. Adapt to new orthography and An Caighdeán Oifigiúil — see **[TODO.md](TODO.md)** for next steps (spelling conversion, [UD_Irish-Cadhan](https://github.com/UniversalDependencies/UD_Irish-Cadhan) as reference context, modern spell-check pass)
+
+## Old-orthography chapter workflow
+
+Step-by-step checklist for proofreading each chapter against its PDF (page markers, OCR scans, human approval gates, and git hygiene):
+
+- **[WORKFLOW.md](caibidlí/old-orthography/WORKFLOW.md)** — repeatable chapter checklist
+- **[AGREED_FIXES.md](caibidlí/old-orthography/AGREED_FIXES.md)** — recurring OCR / transcription fixes to apply consistently
 
 ## Errors
 
