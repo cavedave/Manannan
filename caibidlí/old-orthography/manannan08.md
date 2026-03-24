@@ -17,7 +17,7 @@ Do laḃair Ámón leo agus do laḃair go mí-ṡásta agus
 go díombáiḋeaċ.
 
 “Is oṫ liom a ráḋ, a ċáirde,” ar seisean, “ná fuil
-an tÁrd-Ṁáiġistir sásta ar fad leis na cúntaisí a
+an tárd-Ṁáiġistir sásta ar fad leis na cúntaisí a
 ṫug siḃ uaiḃ o ċianaiḃ. Ní fonn leis cead a ḃeiṫ agaiḃ
 ċun dul saor ar fuaid na caṫraċ feasta.”
 
@@ -293,7 +293,7 @@ na tuairiscí a ṫugann siḃ féin uaiḃ. Ní misde liom a
 ráḋ liḃ go gcreidim féin gurab í an ḟírinne atá agaiḃ
 á innsint.”
 
-“Aċ an gcreideann an tÁrd-Ṁáiġistir sinn? Sin
+“Aċ an gcreideann an tárd-Ṁáiġistir sinn? Sin
 í an ċeist.”
 
 “Ní ceaduiġṫe ḋom é sin a innsint díḃ,” arsa an
@@ -335,7 +335,7 @@ Máirtín. “An aṁlaiḋ a déanfar amadáin nó geilt dínn?”
 
 “Ní hé sin i n-aon ċor é,” arsa an sean-duine go
 mí-ċéadṫaċ. “Ní fonn linn aon díoġḃáil a ḋéanaṁ díḃ.
-Ní ḋéanfaiḋ an tÁrd-Ṁáiġistir aċ coṁaċt a aigne féin
+Ní ḋéanfaiḋ an tárd-Ṁáiġistir aċ coṁaċt a aigne féin
 a ċur i ḃfeiḋm oraiḃ ċun ná cuiṁneoċaiḋ siḃ a ṫuille
 ar an ngnó a ṫug annso siḃ, agus ċun go mbeiḋ siḃ dílis
 dó, agus ná beiḋ fúiḃ díoġḃáil a ḋéanaṁ dó féin ná

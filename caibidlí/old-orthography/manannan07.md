@@ -166,7 +166,7 @@ scata fear ina suiḋe ar fuaid an haLLa agus súile
 gaċ fir díoḃ díriġṫe orṫa féin. Ḃí an sean-ollaṁ
 léiġeanta ann agus ḋem sé mion-ġáire leo.
 
-Do ċrom an tÁrd-Ṁáiġistir ar iad a ċeistiú. Do
+Do ċrom an tárd-Ṁáiġistir ar iad a ċeistiú. Do
 laḃair sé go breáġ riġin soiléir leo, agus ṫugadar-san
 gaċ aon eolas dó, ċoṁ maiṫ agus d’ḟéadadar é. Do
 ċeistig sé iad i dtaoḃina háite gurḃ as dóiḃ, agus i
@@ -181,7 +181,7 @@ aon ṗuinnte ná féadfaḋ an ċuid eile a ṫuiscint.
 
 B’éigean do’n réaltóir peictiúir de’n ġréin agus
 de’n ré agus de ċúrsaí na bpláinéid sa spéir a ḋéanaṁ ar
-ṗáipéar. D’inḟiúċ an tÁrd-Ṁáiġistir an peictiúir go
+ṗáipéar. D’inḟiúċ an tárd-Ṁáiġistir an peictiúir go
 cruinn géar agus do ṫeasbáin do sna fearaiḃ eile é.
 Níor ḋein cuid aca-san aċ strac- ḟéaċaint a ṫaḃairt air,
 aċ do ḋein a ṫuille aca é d’inḟiúċaḋ go cruinn. Sé
@@ -240,7 +240,7 @@ sé nár ṫuig sé cad é an saġas coṁaċta a ḃí ann, marar
 ċoṁaċt aiḃléiseaċ é, agus ná féidir sé ó ṫaLaṁ an doṁain
 conus a cuireaḋ an ċoṁaċt san i ḃfeiḋm ar an dtalaṁ.
 
-D’ḟiafruiġ an tÁrd-Ṁáiġistir de cad é an ċúis
+D’ḟiafruiġ an tárd-Ṁáiġistir de cad é an ċúis
 gur teastuiġ uaiḋ dul isteaċ i dtiġ na haiḃléise an Lá
 fé ḋeire. Do ċaoluiġ sé a ṡúile le linn na ceiste sin
 a ċur, agus ṫuig an réaltóir go raiḃ táḃaċt fé leiṫ ag
@@ -257,7 +257,7 @@ n-ais ċun mo ṁuintire féin.”
 
 D’ḟeaċ na fir ar a ċéile nuair a ċualadar an freagra
 san, aċ ní raiḃ ḟios ag an réaltóir ar ṫaiṫn sé leo nó
-nár ṫaitn. Do ċuir an tÁrd-Ṁáiġistir deire leis an
+nár ṫaitn. Do ċuir an tárd-Ṁáiġistir deire leis an
 agallaiṁ go luaṫ ina ḋiaiḋ san, agus ṫug órdú do’n
 gárda iad a ṡeoLaḋ amaċ as an halla. Ḋein an gárda
 aṁlaiḋ. Do ṡeol sé iad isteaċ i seomra ḃeag a ḃí
@@ -280,7 +280,7 @@ i gceann tamaill. (Ámón ab ainm do’n tsean-ollaṁ.)
 “An aṁlaiḋ nár ṫuigis cad a ḃí ar siuḃal annsan
 istiġ?” arsa Máirtín leis.
 
-“Cad a ḃeaḋ ar siuḃal aċ an tÁrd-Ṁáiġistir ár
+“Cad a ḃeaḋ ar siuḃal aċ an tárd-Ṁáiġistir ár
 gceistiú agus sinne ag taḃairt gaċ aon eolais dó?”
 
 “Bíoḋ ḟios agat,á a ḋuine, go raḃais ós coṁair
