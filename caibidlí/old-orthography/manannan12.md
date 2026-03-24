@@ -10,7 +10,7 @@ D’éiriġ Brian aniar sa leabaiḋ.
 
 “Ó, a ḋaid,” ar seisean, “ar scaoileaḋ saor siḃ?”
 
-“Do scaoil an tÁrd-Ṁáiġistir an triúr againn
+“Do scaoil an tárd-Ṁáiġistir an triúr againn
 saor ċoṁ luaṫ agus a ċuala sé i dtaoḃ an ġníoṁa a
 ḋeinis-se, a ṁic. Ṫug sé árd-ṁolaḋ ḋuit féin agus do
 Nící, agus ní hé aṁáin gur scaoil sé saor sinn, aċ ġaiḃ
@@ -131,7 +131,7 @@ cionntaċ sinn,” arsa Máirtín le hÁmón.
 Níor ḋein Ámón aċ gáire breáġ suḃáilceaċ a ċur
 as.
 
-“B’ḟéidir é,” ar seisean. “Deineann an tÁrd-Ṁáiġistir 
+“B’ḟéidir é,” ar seisean. “Deineann an tárd-Ṁáiġistir 
 a ḋíċeall ar an bpíonós a ċur i n-oireaṁaint
 do’n ċoir is cúis leis. Féaċ,” ar seisean, “an ḃfeiceann
 siḃ an fear san ṫall annsan ar an gcasán eile?”
@@ -156,7 +156,7 @@ Níor ḋein Ámón aċ searraḋ a ḃaint as a ġuailne.
 “Caillfear é,” ar seisean, “mara ḃfuiġiḋ sé duine
 éigin ċun an biaḋ a ċur ina ḃéal.”
 
-Ḃí an tÁrd-Ṁáiġistir suiḋte ina ċaṫaoir uasail
+Ḃí an tárd-Ṁáiġistir suiḋte ina ċaṫaoir uasail
 san halla fada fairsing rómpa, díreaċ mar a ḃí an
 ċéad lá a ċonnacadar é. Do ġáir sé leis na garsúin,
 agus do laḃair go séiṁ leo.
@@ -177,7 +177,7 @@ duḃairt ná raiḃ uaṫa aċ cead a ḃeiṫ aca ċun imṫeaċt ar
 fuaid na caṫraċ agus eolas a ċur ar an áit agus
 ar ṁuintir na háite, agus stuidéar a ḋeanaṁ ar na
 nósanna a ḃí aca agus ar an obair a ḋeinidís. Duḃairt
-an tÁrd-Ṁáiġistir go mbeaḋ an cead san le fáil aca,
+an tárd-Ṁáiġistir go mbeaḋ an cead san le fáil aca,
 agus go ḃféaċfaḋ Ámón ċuige go dtaḃarfaḋ gaċ duine
 sa ċaṫair gaċ aon ċaḃair agus gaċ aon eolas dóiḃ, do
 réir mar a ḃeaḋ ag teastáil uaṫa.
@@ -190,14 +190,14 @@ sa ċaṫair ages na Cráiḋmí, agus is beag má leóṁann
 “I gcead duit, a Árd-Ṁáiġistir,” arsa Máirtín,
 “ba ṁaiṫ liom focal a ráḋ leat i dtaoḃ na gCráiḋmí úd.”
 
-“Abair leat,” arsa an tÁrd-Ṁáiġistir.
+“Abair leat,” arsa an tárd-Ṁáiġistir.
 
 “Ḃíos ag déanaṁ mo ṁaċtnaiṁ orṫa faid a ḃíos
 sa ṗríosún,” arsa Máirtín, “agus do ċuiṁniġeas ar
 ṡeift ċun iad a ḋísciú.”
 
 “Má ḟéadann tú seift a ċeapaḋ ċun deire a ċur
-leis na Cráiḋmí,” arsa an tÁrd-Ṁáiġistir, “beiḋ a
+leis na Cráiḋmí,” arsa an tárd-Ṁáiġistir, “beiḋ a
 ḃfuil sa ċaṫair seo buiḋeaċ díot.”
 
 Do ṫarraing Máirtín páipéar as a ṗóca agus do
@@ -205,7 +205,7 @@ Do ṫarraing Máirtín páipéar as a ṗóca agus do
 
 “Féaċ air sin,” ar seisean.
 
-D’inḟiúċ an tÁrd-Ṁáiġistir an páipéar ar feaḋ
+D’inḟiúċ an tárd-Ṁáiġistir an páipéar ar feaḋ
 i ḃfad.
 
 [l.143]: #
@@ -216,7 +216,7 @@ i ḃfad.
 a ḃeiḋ ag teastáil uaim ċun a ḋéanta.”
 
 “Ġeoḃair gaċ aon niḋ d’á mbeiḋ uait, ná bíoḋ aon
-eagla ort,” arsa an tÁrd-Ṁáiġistir. “A Ṡínó,” ar
+eagla ort,” arsa an tárd-Ṁáiġistir. “A Ṡínó,” ar
 seisean, “tar i leiṫ.”
 
 Ṫáinig duine de’n Árd-Ċoṁairle anall ċúċa. Fear

@@ -155,7 +155,7 @@ go dtiocfaḋ sé linn nuair a ḃeimís ag dul aḃaile.’
 féin” arsa an réaltóir. “Ḃeaḋ uaigneas air i nÉirinn
 i measc stróinséir ná beaḋ aon tuiscint aca ḋó.”
 
-” Aċ-aċ-ceapfaiḋ an tÁrd-Ṁáiġistir go raiḃ ḟios
+” Aċ-aċ-ceapfaiḋ an tárd-Ṁáiġistir go raiḃ ḟios
 aige sinn a ḃeiṫ ag éalóḋ uaiḋ, agus déanfaiḋ sé
 díoġaltas d’agairt air fé mar a ḋein sé ar na daoine
 eile úd.” Agus ḃí iia deora le n-a ṡúile ag Brian agus

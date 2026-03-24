@@ -175,7 +175,7 @@ go ḃfeicimís sliġe éigin as.”
 
 “Mara mbímíd ṫar n-ais sa ċaṫair roiṁ meaḋon
 lae,” arsa Nící, “éireoċaiḋ le Grágó sa ċlaon-ḃeart
-atá socair aige, agus cuirfear an tÁrd-Ṁáiġistir agus
+atá socair aige, agus cuirfear an tárd-Ṁáiġistir agus
 luċt na hÁrd-Ċoṁairle ċun báis.”
 
 “Ní fearr a ḃeiṫ ag cuiṁneaṁ air mar scéal,” arsa
@@ -437,7 +437,7 @@ a ċodlaḋ ḋaoiḃ féin.”
 “Aċ—aċ—an t-inneall,” arsa Brian.
 
 “Fág fúm-sa an t-inneall agus a mbeiḋ ann,” arsa
-an tÁrd-Ṁáiġistir. “Nuair a ṫiocfaiḋ siad-súd aníos
+an tárd-Ṁáiġistir. “Nuair a ṫiocfaiḋ siad-súd aníos
 tríd an dtalaṁ ċuġainn beimíd ullaṁ dóiḃ,” agus ní
 ró-ḋeas an ḟéaċaint a ḃí ina ṡúiliḃ agus é ag ráḋ na
 cainte sin.

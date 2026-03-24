@@ -175,7 +175,7 @@ aer fé mar a ḃeaḋ sé ag féaċaint ar rud éigin i ḃfad
 uaiḋ, daṫ an ḃáis ar gaċ aon aġaiḋ, agus iad go léir ina
 stalcaí gan anam gan anál. Annsan is eaḋ a ṫuigeas an
 rud a ḃí aca á ráḋ le Máirtín, agus do buaileaḋ isteaċ
-im’ aigne go raiḃ an tÁrd-Ṁáiġistir tar éis díoġaltais a
+im’ aigne go raiḃ an tárd-Ṁáiġistir tar éis díoġaltais a
 agairt orṫa.”
 
 “An marḃ a ḃíodar?” arsa Seán.
@@ -241,7 +241,7 @@ a ráḋ liḃ-se a ċuirfeaḋ i dtuiscint dó-súd go raiḃ
 “Is iongnaḋ liom nár tugaḋ an íde ċéadna orainne
 a tugaḋ ar na haindeiseóirí boċta úd,” arsa Máirtín.
 
-“Dá gceapaḋ an tÁrd-Ṁáiġistir go raiḃ láṁ nó
+“Dá gceapaḋ an tárd-Ṁáiġistir go raiḃ láṁ nó
 laḋar againn i n-aon ċoṁ-ċeilg ina ċoinniḃ, ní dóċa
 go ḃfeicfeaḋ duine ar biṫ againn solas an lae indiu.
 Aċ is dóiġ liom gur fear é ná daorfaḋ duine gan a
