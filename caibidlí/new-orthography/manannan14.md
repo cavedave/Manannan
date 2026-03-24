@@ -108,7 +108,7 @@ leigeadar dom codladh a dhéanamh. Ach d’éisteadar
 i gceann tamaill agus do chodluigheas go sámh go maidin.”
 
 “An gcualais-se aon nidh i gcaitheamh na hoidhche?”
-arsa an realtóir le Seán.
+arsa an réaltóir le Seán.
 
 “Ní túisce a leagas mo cheann ar an bpeiliúr ná
 mar a thuit mo chodladh orm,” arsa Seán, “agus ní

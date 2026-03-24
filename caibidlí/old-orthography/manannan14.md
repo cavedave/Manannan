@@ -108,7 +108,7 @@ leigeadar dom codlaḋ a ḋéanaṁ. Aċ d’éisteadar
 i gceann tamaill agus do ċodluiġeas go sáṁ go maidin.”
 
 “An gcualais-se aon niḋ i gcaiṫeaṁ na hoiḋċe?”
-arsa an realtóir le Seán.
+arsa an réaltóir le Seán.
 
 “Ní túisce a leagas mo ċeann ar an bpeiliúr ná
 mar a ṫuit mo ċodlaḋ orm,” arsa Seán, “agus ní
