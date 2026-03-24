@@ -1,4 +1,6 @@
-An tÉalóḋ
+[1.178]: #
+
+# An tÉalóḋ
 
 D’ḟéaċ an triúr ar a ċéile, agus ba léir dóiḃ an
 smaoineaṁ céadna i n-aigne gaċ duine aca.
