@@ -1,4 +1,4 @@
-[1.68]: #
+[l.68]: #
 
 # Na ‘Cráiḋmí’
 
@@ -28,7 +28,7 @@ duine aċ dul i n-áirde ar pé taoḃ a oireaḋ dó.
 Ba ḃreáġ le Brian na casáin sin. Ṫaḃarfaḋ sé an
 lá ar fad ar imarcuideaċt orṫa dá leigtí dó é, aċ ní
 
-[1.69]: #
+[l.69]: #
 
 ṫaḃarfaḋ an t-aṫair cead dó ċun dul i n-aon áit gan an
 ċuid eile a ḃeiṫ i n-éinḟeaċt leis.
@@ -64,7 +64,7 @@ cuiṁin leat an brat geasa san atá Leasmuiġ de’n
 “Tá an brat san idir an áit seo agus an ġrian.
 Leigeann sé an solas tríd isteaċ. Mara mbeaḋ go
 
-[1.70]: #
+[l.70]: #
 
 leigeann ḃeaḋ an áit seo duḃ dorċa i gcoṁnuiḋe. Aċ ní
 féidir feiscint tríd.”
@@ -102,7 +102,7 @@ ar fuaid na caṫraċ fé mar is mian Linn?” arsa Seán.
 “Níl, mar bíonn látós inár dteannta i gcoṁnuiḋe
 agus seolann sé sinn sa treo is mian leis féin sinn do
 
-[1.71]: #
+[l.71]: #
 
 Ḋul. Féaċ an sud a tárla indiu nuair A ṫeastuiĠ uaim
 dul isteaċ i dtiġ na haiḃléise.”
@@ -137,7 +137,7 @@ iomċar treasna na sráide agus é ċur i n-áirde ar an
 gcasán ar an dtaoḃ eile. Do ḋuḃuiġ agus do ḋearguiġ
 ar an réaltóir le feirg, aċ níor ḟéad an ċuid eile aca
 
-[1.72]: #
+[l.72]: #
 
 gan gaire a ḋeanaṁ nuair a ċonnacadar an fear mór á
 árdaċ ims ina ḃaclainn mar a árdóċaḋ sé páiste.
@@ -172,7 +172,7 @@ féidir dúinne é ḋéanaṁ.”
 an fuadar a ḃí fúṫa. Do laḃair sé leo go fada agus go
 dúṫraċtaċ agus é ag féaċaint ó ḋuine go ċéile orṫa, aċ
 
-[1.73]: #
+[l.73]: #
 
 ní raiḃ a ndóṫain de n teangain aca ċun a ċuid cainte a
 ṫuiscint. Ċuasladar an foċal “ċráiḋmí” go minic uaiḋ,
@@ -203,7 +203,7 @@ cionn na mbláṫ leasmuiġ de’n ḃfuinneóig. Ḃí an seomra
 ar aon leiḃeal leis an dtalaṁ, agus níor ḋein Brian aċ
 léimt. Amaċ ra ġáirdín agus an líontán ina láiṁ aige.
 
-[1.74]: #
+[l.74]: #
 
 D’ḟan an peiḋleacán go dtí go raiḃ sé i ngiorraċt
 órdlaig do. D’eiriġ se annsan agus d’eiteal cúpla
@@ -235,7 +235,7 @@ se ċuige iad-na hárraċtaiġ ba ṁó agus ba ġránda d’á
 ḃfeaca súil duine riaṁ. Ba ċosṁail le portáin oll-ṁóra
 iad sa meid go raiḃ iliomad cos fúṫa agus sliogáin
 
-[1.75]: #
+[l.75]: #
 
 ṁóra ċruaḋa ar a ndrom. Aċ ḃí scrugall de ṁuineál
 fada caol ar gaċ ceann aca agus aġaiḋ ar gaċ scrugall

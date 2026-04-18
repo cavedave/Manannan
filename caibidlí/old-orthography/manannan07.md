@@ -1,4 +1,4 @@
-[1.76]: #
+[l.76]: #
 
 # An tÁrd-Ṁáiġistir
 
@@ -27,7 +27,7 @@ fuair sé é féin i sráid ná raiḃ ró-ḟada ċun an tiġ ina raiḃ sé ag
 
 Ḃí lán-tsolas na maidne ann nuair a ḋúisiġ sé, agus
 
-[1.77]: #
+[l.77]: #
 
 
 ḃí an triúr fear suiḋte ċun búird nuair a ḃuail sé isteaċ
@@ -63,7 +63,7 @@ mór iad ar a ḟeaḃas agus ar a ṫapaṁlaċt a ḃí an teanga
 foġlumṫa aca, agus d’ḟiafruiġ díoḃ cad é an gnó a ṫug
 
 
-[1.78]: #
+[l.78]: #
 
 á ḟeiscint féin iad. Do ṁíniġeadar a scéal dó ċoṁ
 maiṫ agus d’ḟeadadar é, agus d’iarradar cead air ċun
@@ -93,7 +93,7 @@ Leis sin ṫáinig fear eile ó’n dtiġ amaċ agus árd-
 ḋein óráid ḟada ag míniú a scéil dóiḃ. Má ḋein, ní
 ró-ṁaiṫ a ṫuigeadar-fan é.
 
-[1.79]: #
+[l.79]: #
 
 “Cad é sin a deir sé?" arsa an réaltóir i gceann
 tamaiu.
@@ -120,7 +120,7 @@ réaltóir, agus amaċ leo sa tsráid.
 Do ṫreoruiġ an gárda iad fan na gcasán go dtí
 go ḃfuaireadar iad féin ar an dtaoḃ ṫall de’n ċaṫair.
 
-[1.80]: #
+[l.80]: #
 
 “ An dtugann tú fé ndeara, a aṫair,’ arsa Brian
 agus iad ag cur an bóṫair díoḃ, “an dtugann tú fé
@@ -151,7 +151,7 @@ de ġruaig rua ar an Árd-Ṁáiġistir, agus ḃí órdlaċ
 ar aoirde aige de ḃreis ar éinne eile aca. Fear breáġ
 pearsanta ab eaḋ é. É go deiġ-ṡeasaiṁ, maorḋa ann 
 
-[1.81]: #
+[l.81]: #
 
 féin, agus dá ṡúil ġeala ġorma ag glinneaṁaint ina
 ċeann. Ḃí éadaiġe míne geal-daiṫte uime, agus iad
@@ -219,7 +219,7 @@ na freagraí a ḃí ag Seán á dtaḃairt ar ċeisteanna an
 Ḃí sé ag dul dian go leor ar Ṡeán boċt cúrsaí
 eiteallóireaċta a ṁíniú i dteangain Ṁanannáin, agus
 
-[1.83]: #
+[l.83]: #
 ba ṁinic é ag toċas a ċinn agus é ad iarraiḋ cuiṁneaṁ ar
 na focail a ṁíneóċaḋ a scéaL do’n ċuideaċtain. Caiṫfear
 a adṁáil gur ḋein sé eascaine nó ḋó fé n-a anál i
@@ -249,7 +249,7 @@ Do ṫeastuiġ uaim laḃairt leis na heolgaiġ leiġeanta
 atá i mbun tiġe na haiḃléise annso féaċaint ar ḃ’é a
 dtoil cuid d’á sár-eolas féin a ṫaḃairt dom le breiṫ ṫar n-ais ċun mo ṁuintire féin.”
 
-[1.84]: #
+[l.84]: #
 
 D’ḟeaċ na fir ar a ċéile nuair a ċualadar an freagra
 san, aċ ní raiḃ ḟios ag an réaltóir ar ṫaiṫn sé leo nó
@@ -284,7 +284,7 @@ cúirte ó Ċianaiḃ-cúirt a tugaḋ le ċéiLe d’aon ġnó ċun
 sinne a ṫriail. B’é an tárd-Ṁáiġistir an breiṫeaṁ agus
 an ċuid eile aca an coiste dáréag, agus tá siad ag cur
 
-[1.85]: #
+[l.85]: #
 
 
 is ag cúiteaṁ annsan istiġ féaċaint cioca saor-ḃreiṫ
@@ -319,7 +319,7 @@ Leis sin do ċuir Brian liúġ as le háṫas.
 “ Féaċ na saiġdiúirí,” ar seisean. “ Tagaiḋ annso
 go ḃfeiciḋ siḃ na saiġdiúirí.”
 
-[1.86]: #
+[l.86]: #
 
 Anonn leis an dtriúr eile ċun na fuinneóige. Ḃí
 díorma saiġdiúir ina seasaṁ i nṫaon líne aṁáin ós coṁair

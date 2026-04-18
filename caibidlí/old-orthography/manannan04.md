@@ -31,6 +31,8 @@ tamall beag ó’n eiteallán. Ḃí an triúr eile ag gáiriḋe.
 
 “Ní hag eitilt a ḃís, a ṁic,” arsa an t-aṫair, “aċ ag léimt.”
 
+[l.45]: #
+
 “Ní ḟeadfainn leim ċoṁ fada san a Ċaiṫeaṁ,” arsa Brian. “Féaċ a ḟaid uaiḃ atáim.”
 
 “Is luġa an ṗláinéid seo ná an doṁan so againne
@@ -66,6 +68,8 @@ síos ċun deoċ d’ól.
 an t-uisce a ṫástáil ar eagla aon ċeimiciḋeaċt a ḃeiṫ
 ann a ḋéanfaḋ díoġḃáil dúinn.”
 
+[l.46]: #
+
 “Fíor-uisce é,” ar seisean i gceann tamaillín.
 
 “Ólaiḋ ḃúr ndóṫain de.” 
@@ -99,6 +103,8 @@ feictear ar an saoghal seo, agus duilliúr tiuġ ioldaṫaċ ortha.
 Ḃí Brian ag féaċaint orṫa ag árdú an eitealláin
 leo, agus a ḃéal ar leaṫaḋ aige le hiongnaḋ agus le
 halltaċt.
+
+[l.47]: #
 
 “An aṁlaiḋ ná fuil aon ṁeáḋċan san eiteallán ? ”
 
@@ -136,6 +142,8 @@ an doṁan cad a leag mé.
 
 arsa Seán.
 
+[l.48]: #
+
 “Níl éinní annso a ḃainfeaḋ barra-ṫuisle asam,”
 
 arsa Brian. “Is aṁlaiḋ a ċriṫ an fód fé’m ċosaiḃ
@@ -153,6 +161,8 @@ talaṁ.”
 Ḃain an ḃeirt eile triail as, aċ ní túisce a ċuiridís
 a gcosa ṫar an áit ina raḃadar ná caiṫtí siar ar ċúl
 a gcinn iad.
+
+[l.49]: #
 
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé niḋ é.”
@@ -201,6 +211,8 @@ an ḃóṫair agus do ċromadar ar ṡúgraḋ ḋóiḃ féin. Iad
 ag béiciġ agus ag liúraiġ ċun a ċéile mar a ḃeaḋ leanḃaí
 saoġalta. Do stad an ceaṫrar ċun éisteaċt leo. Ḃí
 glórṫa binne caola aca aċ toisc a éadtruime a ḃí an
+[l.50]: #
+
 t-aer d’ḟéadfaidís gaċ aon niḋ a ċloisint go soiléir.
 Má ċualadar, níor ṫuigeadar.
 
@@ -235,6 +247,8 @@ Níor ḋein an garsún eile aċ scairt ṁór ġáiriḋe
 “Troid atá uait,” arsa Brian, agus do ċrom ar a
 ċasóig a ḃaint de. Rug a aṫair ar ġualainn air.
 
+[l.51]: #
+
 “Go réiḋ, a ṁic ó,” ar seisean. “Ní ṫeastuiġeann
 uainn droċ-aigne na ndaoine a ṫarraing orainn. Agus
 ar aon ċuma ní le droċ-ṁúineaḋ ná le dailtíneaċt atá
@@ -262,6 +276,8 @@ Do leig Seán scread orṫa.
 Do stad an gáire nuair a ċualadar an glór árd
 agus d’ḟéaċadar air. Do laḃair Seán go breáġ mall
 soiléir.
+
+[l.52]: #
 
 “Féaċaiḋ,” ar seisean. “Ṫángamar anuas ó’n
 spéir,” agus do ṡín sé a ṁéar ċun na spéire, “i
