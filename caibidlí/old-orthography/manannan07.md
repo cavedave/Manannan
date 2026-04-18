@@ -266,7 +266,7 @@ anonn ċun na fuinneóige agus do ṡeas annsúd ag
 féaċaint amaċ.
 “An dtug siḃ Ámón fé ndeara?” arsa an réaltóir
 i gceann tamaill. (Ámón ab ainm do’n tsean-ollaṁ.)
-“Ḃí a ḋá láiṁ ar criṫ agus gaċ aon ḃraon alLuis leis.”
+“Ḃí a ḋá láiṁ ar criṫ agus gaċ aon ḃraon alluis leis.”
 
 “Ċonnac é,” arsa Máirtín. “Ḃí eagla air.”
 
