@@ -74,7 +74,7 @@ ar seisean.
 
 “Ní ḟeaca ann tú,” arsa an garsún.
 
-“Ní raḃas ann ċuige. Istiġ aniiso a ḃíos agus mé
+“Ní raḃas ann ċuige. Istiġ annso a ḃíos agus mé
 ag féaċaint oraiḃ.”
 
 “Ní haṁlaiḋ a ḃí raḋarc agat orainn ó’n áit seo?”
