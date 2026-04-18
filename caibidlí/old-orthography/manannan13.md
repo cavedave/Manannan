@@ -34,7 +34,7 @@ Díreaċ agus iad suiḋte ċun dinnéir amáireaċ a ḃí
 [l.152]: #
 
 “Cad é an rud é sin ?” arsa Seán. “Cad ’na ṫaoḃ
-go ḃfuil an aḋarc á *seideaḋ ?”
+go ḃfuil an aḋarc á seideaḋ ?”
 
 “Fógra é sin go ḃfuil na Cráiḋmí ċuġainn,” arsa
 Nící. “Na daoine a ḃíonn ag obair ins na guirt agus ins

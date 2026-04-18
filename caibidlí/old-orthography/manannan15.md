@@ -1,4 +1,4 @@
-[1.178]: #
+[l.178]: #
 
 # An tÉalóḋ
 
@@ -63,7 +63,7 @@ réaltóir.
 
 Ṫuig sé féin agus Máirtín aigne a ċéile go breáġ,
 aċ níor leigeadar aon niḋ orṫa. Ṫuigeadar, leis, gur
-ṁaiṫ an ḃail orṫa ná raiḃ an tÁrd-Ṁáiġistír ann an
+ṁaiṫ an ḃail orṫa ná raiḃ an tÁrd-Ṁáiġistir ann an
 
 [l.180]: #
 uair sin, mar go mbeaḋ ḟios aige an rud a ḃí ar aigne
@@ -158,7 +158,7 @@ i measc stróinséir ná beaḋ aon tuiscint aca ḋó.”
 ” Aċ-aċ-ceapfaiḋ an tárd-Ṁáiġistir go raiḃ ḟios
 aige sinn a ḃeiṫ ag éalóḋ uaiḋ, agus déanfaiḋ sé
 díoġaltas d’agairt air fé mar a ḋein sé ar na daoine
-eile úd.” Agus ḃí iia deora le n-a ṡúile ag Brian agus
+eile úd.” Agus ḃí na deora le n-a ṡúile ag Brian agus
 é ag ráḋ na cainte.
 
 “Ní baoġal dó,” arsa an réaltóir. “Ní ḃeiḋ aon
@@ -242,7 +242,7 @@ croiḋe-ḃriste. Leag an réaltóir láṁ ar a ġualainn.
 “Ná bíoḋ ceist ort, a Ṡeáin,” ar seisean. “Tá
 dóṫain beirte agam-sa.”
 
-“Mise is mó a fuair de ṡeoda ó’n Árd-Ṁáigistir,”
+“Mise is mó a fuair de ṡeoda ó’n Árd-Ṁáiġistir,”
 
 [l.185]: #
 arsa Máirtín. “Taḃarfad a leaṫ ḋuit nuair a ḃainfimíd
