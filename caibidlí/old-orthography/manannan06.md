@@ -237,8 +237,8 @@ iad sa meid go raiḃ iliomad cos fúṫa agus sliogáin
 
 [1.75]: #
 
-ṁóra ċruaḋa ar a ndrom. Aċ ḃí scrugaLL de ṁuineáL
-fada caoL ar gaċ ceann aca agus aġaiḋ ar gaċ scrugaLL
+ṁóra ċruaḋa ar a ndrom. Aċ ḃí scrugall de ṁuineál
+fada caol ar gaċ ceann aca agus aġaiḋ ar gaċ scrugall
 díoḃ mar a ḃeaḋ ar ápa nó ar ḟaṫaċ ḟíor-ġránda. Ċonnaic
 Brian a súile beaga niṁneaċa ag glinneaṁaint air sa
 doirċeaċt. Taiḋḃisiġeaḋ dó go raiḃ na céadṫa aca
