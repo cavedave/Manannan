@@ -35,7 +35,7 @@ Mí na Nodlag, 1939.
 |                                   |Leaṫanaċ.|
 | :---                                  | ---:|
 | Pláinéid ná Feaca Súil Duine Riaṁ     |   9 |
-| An Raḋarc tríd an gciandracán         |  18 |
+| An Raḋarc tríd an gCiandracán         |  18 |
 | An Turas go Manannán                  |  31 |
 | Manannán                              |  44 |
 | Muintear Ṁanannáin                    |  53 |

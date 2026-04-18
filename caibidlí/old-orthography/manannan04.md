@@ -101,11 +101,12 @@ na gcrann. Crainn ṁóra ab eaḋ iad de ṡaġas ná
 feictear ar an saoghal seo, agus duilliúr tiuġ ioldaṫaċ ortha.
 
 Ḃí Brian ag féaċaint orṫa ag árdú an eitealláin
-leo, agus a ḃéal ar leaṫaḋ aige le hiongnaḋ agus le
-halltaċt.
+
 
 [l.47]: #
 
+leo, agus a ḃéal ar leaṫaḋ aige le hiongnaḋ agus le
+halltaċt.
 “An aṁlaiḋ ná fuil aon ṁeáḋċan san eiteallán ? ”
 
 ar seisean.
@@ -162,7 +163,6 @@ talaṁ.”
 a gcosa ṫar an áit ina raḃadar ná caiṫtí siar ar ċúl
 a gcinn iad.
 
-[l.49]: #
 
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé niḋ é.”
@@ -179,6 +179,9 @@ Seán agus d’ḟéaċ suas san aer agus síos ċun na talṁan.
 
 “Sin é an niḋ is iongantaiġe d’á ḃfeaca riaṁ,” ar
 seisean. “Ṁoṫuiġeas mar a ḃeaḋ coṁaċt éigin ag
+
+[l.49]: #
+
 bualaḋ im’ ċoinniḃ agus am’ ṫeilgean siar le fórsa. Mara
 mbeaḋ a éadtruime atáim, gortóċṫaí mé.”
 
@@ -277,12 +280,14 @@ Do stad an gáire nuair a ċualadar an glór árd
 agus d’ḟéaċadar air. Do laḃair Seán go breáġ mall
 soiléir.
 
-[l.52]: #
-
 “Féaċaiḋ,” ar seisean. “Ṫángamar anuas ó’n
 spéir,” agus do ṡín sé a ṁéar ċun na spéire, “i
 n-eiteallán.” Do ḋein sé coṁarṫaí le n-a ḋá láiṁ agus
 do ċuir crónán as a ḃéal agus é ad iarraiḋ aiṫrise a
+
+[l.52]: #
+
+
 ḋeanaṁ ar ḋordan an eitealláin. Níor ḋein na leanḃaí
 aċ a méireanna féin a ṡíneaḋ ċun na speire agus crónán
 bog binn a ċur asta mar a ḋéanfaḋ saite beaċ. D’ḟéachadar ar Ṡeán annsan agus do ġáireadar leis, i leiṫ is
