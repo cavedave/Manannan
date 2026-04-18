@@ -3,7 +3,7 @@
 # An tÁrd-Ṁáiġistir
 
 Do stadaḋ de’n ruaig go hobann. Féaċaint d’á
-dtug Brian ṫar a ġuaLainn ċonnaic sé go raiḃ
+dtug Brian ṫar a ġualainn ċonnaic sé go raiḃ
 na hárraċtaiġ ina gcoilg-ṡeasaṁ gan cor asta. Do
 stad sé féin ċun a anál a ṫarraing agus d’ḟéaċ orṫa.
 Ḃí na céadṫa aca ann, iad má seasaṁ i n-aon líne aṁáin
@@ -12,7 +12,7 @@ fé mar a ḃeidís ag déanaṁ a ndíċill ar ḋul ar aġaiḋ
 agus é ag teip orṫa. Ṡíneaḋ ceann aca a -ċosa caola
 lúbaċa ó am go ham, aċ ċrapaḋ sé arís go tapaiḋ iad,
 agus anois is arís ċuireaḋ ċeann aca búirṫ as mar A
-ċuirfeaḋ tarḃ buiLe. 
+ċuirfeaḋ tarḃ buile. 
 
 Buaileaḋ isteaċ i n-aigne Ḃriain go raḃadar tagaiṫe
 ċun na háite mar ar baineaḋ an leagaḋ as féin an lá a
@@ -21,15 +21,15 @@ is eaḋ a ṫuig sé an fáṫ go raiḃ an ċosaint sin curṫa
 timċeall na caṫraċ ag muintir Ṁanannáin.
 
 Ní ró-ḟada a ḋ’ḟan sé annsúd ag féaċaint orṫa.
-Do ċuir sé ins na cosaiḃ arís agus ba ġairid an ṁoiLl
+Do ċuir sé ins na cosaiḃ arís agus ba ġairid an ṁoill
 air an ċaṫair a ḃaint amaċ. Ar áḋṁaraiġe an tsaoġail
-fuair sé é féin i sráid ná raiḃ ró-ḟada ċun an tiġ ina raiḃ
-sé ag cur fé, agus níorḃ ’ḟada go raiḃ sé sínte ar a
-leabaiḋ agus é ina ċodlaḋ go sáṁ.
+fuair sé é féin i sráid ná raiḃ ró-ḟada ċun an tiġ ina raiḃ sé ag cur fé, agus níorḃ ’ḟada go raiḃ sé sínte ar a leabaiḋ agus é ina ċodlaḋ go sáṁ.
+
+Ḃí lán-tsolas na maidne ann nuair a ḋúisiġ sé, agus
 
 [1.77]: #
 
-Ḃí lán-tsolas na maidne ann nuair a ḋúisiġ sé, agus
+
 ḃí an triúr fear suiḋte ċun búird nuair a ḃuail sé isteaċ
 sa tseomra bíḋ. D’innis sé a scéal dóiḃ agus eagla a
 ċroiḋe air go ḃfuiġeaḋ sé sceiṁle ó n-a aṫair toisc é
@@ -42,14 +42,14 @@ eaḋ a cuireaḋ an ċoṁaċt úd sa talaṁ a ḋein sinne a
 leagaḋ an lá a ṫángamar,” arsa Máirtín.
 
 “Mara mbeaḋ san ḃí beirṫe aca orm-sa aréir,”
-arsa Brian. .
+arsa Brian.
 
 Le n-a linn sin do riṫ an smaoineaṁ céadna le gaċ
 duine aca. D’ḟéaċadar ar a ċéile agus do ḃánuiġ ar Gaċ
 fear díoḃ. An t-eiteallán! Má ṡatail na hárraċtaiġ
 úd ar an eiteallán ḃí sprúdar déanta aca ḋe. agus má
 ḃí an t-eiteallán briste ní ḃeaḋ aon ḃreiṫ aca féin ar
-ḋul aḃaile ċoiḋċe. .
+ḋul aḃaile ċoiḋċe.
 Ṫáinig an sean-ollaṁ á ḃfeiscint ar ball, mar a
 ṫagaḋ gaċ aon lá, agus ċuireadar an scéal fé n-a ḃráid.
 Níor ḋein seisean aċ órdú a ṫaḃairt do Látós, agus do
@@ -147,7 +147,7 @@ leaṫana agus isteaċ i halla fairsing mar a raiḃ an tÁrd-
 Ṁáiġistir ina ṡuiḋe agus scata fear mar aon leis.
 Gruaig ḃán nó gruaig ḃuiḋe a ḃí ar gaċ aon ḟear díoḃ,
 Fé mara ḃí ar ṁuintir Ṁanannáin go Léir, aĊ ḃí moṫal
-de ġruaig rua ar .an Árd-Ṁáiġistir, agus ḃí órdlaċ
+de ġruaig rua ar an Árd-Ṁáiġistir, agus ḃí órdlaċ
 ar aoirde aige de ḃreis ar éinne eile aca. Fear breáġ
 pearsanta ab eaḋ é. É go deiġ-ṡeasaiṁ, maorḋa ann 
 
@@ -160,9 +160,8 @@ maisiġṫe le búclaí agus le cloċa luaċṁara.
 
 
 Do ḃeannuiġ sé do sna cuairteóirí go síḃialta, agus
-duḃairt leo suiḋe ar ṡuiḋeaċáin i n-aice leis féin. Ḋein-
-eadar aṁlaiḋ agus d’ḟéaċadar ina dtimċeall. Ċonnacadar 
-scata fear ina suiḋe ar fuaid an haLLa agus súile
+duḃairt leo suiḋe ar ṡuiḋeaċáin i n-aice leis féin. Ḋeineadar aṁlaiḋ agus d’ḟéaċadar ina dtimċeall. Ċonnacadar 
+scata fear ina suiḋe ar fuaid an halla agus súile
 gaċ fir díoḃ díriġṫe orṫa féin. Ḃí an sean-ollaṁ
 léiġeanta ann agus ḋem sé mion-ġáire leo.
 
@@ -183,7 +182,7 @@ B’éigean do’n réaltóir peictiúir de’n ġréin agus
 de’n ré agus de ċúrsaí na bpláinéid sa spéir a ḋéanaṁ ar
 ṗáipéar. D’inḟiúċ an tÁrd-Ṁáiġistir an peictiúir go
 cruinn géar agus do ṫeasbáin do sna fearaiḃ eile é.
-Níor ḋein cuid aca-san aċ strac- ḟéaċaint a ṫaḃairt air,
+Níor ḋein cuid aca-san aċ strac-ḟéaċaint a ṫaḃairt air,
 aċ do ḋein a ṫuille aca é d’inḟiúċaḋ go cruinn. Sé
 ḋein aḃfurṁór ná a gceann a ċroṫad agus gáire magaṁail
 
@@ -201,7 +200,7 @@ arsa INáIráTÍIl “ go dtaḃarfainn léiġeaċt dóiḃ fé mar a
 ṫugaim do sna mic léiġinn san OllscoiL, agus an ḟírinne
 a ċur ar a súile dóiḃ.”
 Leis sin d’ḟéaċ an réaltóir ar an sean-ollaṁ. Ḃí
-gaċ aon ḃraon alLuis ar a éadan-san agus ḃí a ḋá láiṁ
+gaċ aon ḃraon alluis ar a éadan-san agus ḃí a ḋá láiṁ
 ar criṫ. Baineaḋ geit as an réaltóir. Buaileaḋ isteaċ
 ina aigne go raiḃ eagla ar an sean-duine, cé nár ṫuig sé
 cad é an ċúis a ḃí Leis. D’ḟéaċ sé arís ar an Árd-Ṁáiġistir. 
@@ -213,7 +212,7 @@ do’n réaltóir an cruaḋas agus an déine laistiar de’n
 dá mbeaḋ aṁras dá luiġead aige gur droċ-ḟuadar a ḃí
 fúṫa, agus le n-a linn sin do ṁoṫuiġ sé mar a ḃeaḋ
 méireanna fuara ag staṫad a ċroiḋe. Ḃí sé mar a
-ḃeaḋ duine gan anam gan anál- agus é ag éisteaċt leis
+ḃeaḋ duine gan anam gan anál agus é ag éisteaċt leis
 na freagraí a ḃí ag Seán á dtaḃairt ar ċeisteanna an
 Árd-Ṁáiġistir.
 
@@ -226,8 +225,6 @@ na focail a ṁíneóċaḋ a scéaL do’n ċuideaċtain. Caiṫfear
 a adṁáil gur ḋein sé eascaine nó ḋó fé n-a anál i
 gcaiṫeaṁ an ċeistiúċáin.
 
-
-
 Nuair a ḃí Seán ceistiġṫe scrúduiġṫe go maiṫ aige
 d’iompuiġ an tárd-Ṁáiġistir ar Ṁáirtín agus Do
 laḃair go tláṫ leis. Do ċeistiġ sé é i dtaoḃ cúrsaí
@@ -237,7 +234,7 @@ gcaṫair sin. D’adṁuiġ Máirtín ná feaca sé riaṁ a
 leiṫéid agus gur ṫuig sé gurḃ aṁlaiḋ a ḃí coṁaċt éigin sa
 talaṁ a ṫeilgeaḋ siar éinne a ċuireaḋ cos air. Duḃairt
 sé nár ṫuig sé cad é an saġas coṁaċta a ḃí ann, marar
-ċoṁaċt aiḃléiseaċ é, agus ná féidir sé ó ṫaLaṁ an doṁain
+ċoṁaċt aiḃléiseaċ é, agus ná féidir sé ó ṫalaṁ an doṁain
 conus a cuireaḋ an ċoṁaċt san i ḃfeiḋm ar an dtalaṁ.
 
 D’ḟiafruiġ an tÁrd-Ṁáiġistir de cad é an ċúis
@@ -250,8 +247,7 @@ baint leis an ḃfreagra a ṫaḃarsaḋ. Máirtín air.
 glan agaiḃ ar ṁuintir mo ṫíre féin san ealaḋain sin.
 Do ṫeastuiġ uaim laḃairt leis na heolgaiġ leiġeanta
 atá i mbun tiġe na haiḃléise annso féaċaint ar ḃ’é a
-dtoil cuid d’á sár-eolas féin a ṫaḃairt dom le breiṫ ṫar
-n-ais ċun mo ṁuintire féin.”
+dtoil cuid d’á sár-eolas féin a ṫaḃairt dom le breiṫ ṫar n-ais ċun mo ṁuintire féin.”
 
 [1.84]: #
 
@@ -259,11 +255,11 @@ D’ḟeaċ na fir ar a ċéile nuair a ċualadar an freagra
 san, aċ ní raiḃ ḟios ag an réaltóir ar ṫaiṫn sé leo nó
 nár ṫaitn. Do ċuir an tÁrd-Ṁáiġistir deire leis an
 agallaiṁ go luaṫ ina ḋiaiḋ san, agus ṫug órdú do’n
-gárda iad a ṡeoLaḋ amaċ as an halla. Ḋein an gárda
+gárda iad a ṡeolaḋ amaċ as an halla. Ḋein an gárda
 aṁlaiḋ. Do ṡeol sé iad isteaċ i seomra ḃeag a ḃí
 leasmuig de’n halla, agus duḃairt leo fanaċt ann.
 
-“Náċ deas cneasta an fear- an tárd-Ṁáiġistir ? ” arsa Seán.
+“Náċ deas cneasta an fear an tÁ.-Ṁ.?” arsa Seán.
 
 Ní ṫug an ḃeirt eile aon ḟreagra air. Ċuaiḋ Brian
 anonn ċun na fuinneóige agus do ṡeas annsúd ag
@@ -297,7 +293,7 @@ nó daor-ḃreiṫ a taḃarsar-orainn.”
 “Agus cad é an ċoir atá aca le cur inár leiṫ?”
 
 “Is dóiġ Leo gur spiairí sinn nó go ḃfuilimíd ar
-tí a ndíoġḃáLa ar ċuma éigin. Is léir nár i gcreideadar
+tí a ndíoġḃála ar ċuma éigin. Is léir nár i gcreideadar
 focal de sna cúntaisí a ṫugamar dóiḃ. Má ċeapann
 siad gur baoġal dóiḃ sinn, nó má’s dóiġ leo gur ċun
 díoġḃáil a ḋéanaṁ dóiḃ a ṫángamar annso . . . .” Do
@@ -319,7 +315,7 @@ gcomáinfiḋ luas Ṁanannáin ṫar n-ais sinn."
 “Ní ḃeiḋ an doṁan roṁainn amaċ ar a ċúrsa
 timċeall na gréine go ceann míosa.”
 
-Leis sin do ċuir Brian Liúġ as le háṫas.
+Leis sin do ċuir Brian liúġ as le háṫas.
 “ Féaċ na saiġdiúirí,” ar seisean. “ Tagaiḋ annso
 go ḃfeiciḋ siḃ na saiġdiúirí.”
 
@@ -332,4 +328,4 @@ i láiṁ gaċ saiġdiúra. agus oifigeaċ ina ṡeasaṁ ar a
 n-aġaiḋ amaċ. Ní duḃairt éinne de’n triúr focal aċ
 do ċas Seán a ḋá ordóig síos ċun na talṁan. Ṫuig an
 ḃeirt eile é ċoṁ maiṫ agusdá laḃraḋ sé. Sé rud a ḃí
-aige á ráḋ leo ná: “Tá deire linn.” .
+aige á ráḋ leo ná: “Tá deire linn.”
