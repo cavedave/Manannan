@@ -252,7 +252,7 @@ an ḃóṫair.
 
 Fuair na leanḃaí ana-ṡult san obair. Ḃíodar ag
 tuitim ar a gcosaiḃ le greann is le gáiriḋe, agus d’á
-ṁéid fearg a ḃí ar Ḃrian ċúċa is eaḋ is- mó a ḃíodar ag
+ṁéid fearg a ḃí ar Ḃrian ċúċa is eaḋ is mó a ḃíodar ag
 scairteaḋ.
 
 Do leig Seán scread orṫa.
