@@ -8,8 +8,8 @@ The book has never been reprinted or translated. This digitisation project aims 
 
 ## Clár an Leabhair (Table of Contents)
 
-| #  | Chapter | Original | Modern | Pages | PDF |
-|----|---------|----------|--------|-------|-----|
+| #  | Chapter | Old Format | Modern Irish | Pages | PDF |
+|----|---------|------------|--------------|-------|-----|
 |    | Cover | — | — |  | [PNG](assets/manannan.png) |
 | 0  | Front matter | [Front matter](caibidlí/old-orthography/manannan00.md) | — | 1–8 | [PDF](caibidlí/manannan00.pdf) |
 | 1  | A Planet No Human Eye Had Ever Seen Before | [Pláinéid ná Feaca Súil Duine riaṁ](caibidlí/old-orthography/manannan01.md "A Planet No Human Eye Had Ever Seen Before") | [Pláinéid nach bhFaca Súil Duine riamh](caibidlí/spelling/manannan01.md "A Planet No Human Eye Had Ever Seen Before") | 9–17 | [PDF](caibidlí/manannan01.pdf) |
@@ -28,37 +28,13 @@ The book has never been reprinted or translated. This digitisation project aims 
 | 14 | Revenge | [Díoġaltas](caibidlí/old-orthography/manannan14.md "Revenge") | — | 166–177 | [PDF](caibidlí/manannan14.pdf) |
 | 15 | The Escape | [An tÉalóḋ](caibidlí/old-orthography/manannan15.md "The Escape") | — | 178–188 | [PDF](caibidlí/manannan15.pdf) |
 
-**Original** — [`caibidlí/old-orthography/`](caibidlí/old-orthography/): PDF-faithful transcription (old orthography). **Modern** — [`caibidlí/spelling/`](caibidlí/spelling/): same text after a [grapheme pass](caibidlí/conversion/build_new_orthography.py) to [`caibidlí/new-orthography/`](caibidlí/new-orthography/) and then the [Cadhan Intergaelic](https://cadhan.com/) standardiser (chapters show a link when `spelling/manannanNN.md` exists; others are pending).
+**Old Format** — [`caibidlí/old-orthography/`](caibidlí/old-orthography/): PDF-faithful transcription (old orthography). **Modern Irish** — [`caibidlí/spelling/`](caibidlí/spelling/): same text after a [grapheme pass](caibidlí/conversion/build_new_orthography.py) to [`caibidlí/new-orthography/`](caibidlí/new-orthography/) and then the [Cadhan Intergaelic](https://cadhan.com/) standardiser (chapters show a link when `spelling/manannanNN.md` exists; others are pending).
 
 ## How to Help
 
-Read the **Modern** (spelling-corrected) version linked in the table of contents above ([`caibidlí/spelling/`](caibidlí/spelling/)). If you find errors, say so in **chat** (here or wherever we are talking) and the text will be updated from that. If you are comfortable with Git, a **pull request** with edits is welcome too. Corrections are especially welcome from Irish speakers.
+Read the **Modern Irish** (spelling-corrected) version linked in the table of contents above ([`caibidlí/spelling/`](caibidlí/spelling/)). If you find errors, say so in **chat** (here or wherever we are talking) and the text will be updated from that. If you are comfortable with Git, a **pull request** with edits is welcome too. Corrections are especially welcome from Irish speakers.
 
-## Plan
-1. Accurate transcription of the PDF in old orthography
-2. Adapt to new orthography and An Caighdeán Oifigiúil — see **[TODO.md](TODO.md)** for next steps (spelling conversion, [UD_Irish-Cadhan](https://github.com/UniversalDependencies/UD_Irish-Cadhan) as reference context, modern spell-check pass)
 
-## Old-orthography chapter workflow
-
-Step-by-step checklist for proofreading each chapter against its PDF (page markers, OCR scans, human approval gates, and git hygiene):
-
-- **[WORKFLOW.md](caibidlí/old-orthography/WORKFLOW.md)** — repeatable chapter checklist
-- **[AGREED_FIXES.md](caibidlí/old-orthography/AGREED_FIXES.md)** — recurring OCR / transcription fixes to apply consistently
-
-## Errors
-
-Errors are where the extract makes a spelling error. Do not worry about the page numbers and book name being present. These are easy to take out later and help keep track of where we are in the book for combining the text together later.
-
-## Formatting
-
-We are lightly formatting the text files in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) format. 
-
-* Keep original line breaks to make it easier to compare side by side with PDF
-* Rejoin words that were hyphenated
-* Leave a blank line between paragraphs
-* Remove spaces between punctuation and words e.g. `“ An mar sin é ? ” arsa an garsún` becomes `“An mar sin é?” arsa an garsún`.
-
-Mark page numbers  with a reference like this `[l.31]: #` for *leathanach 31*. This is a Markdown reference that will be hidden if the text is converted to HTML or ePUB. Leave a blank line before the page number reference. By convention, a blank line *after* the page number reference means that the following text is a new paragraph; no blank line after means that the following text runs on from the previous page. We are not currently using these references but they are useful to keep track when editing and would allow us to include print edition page numbers in output formats.
 
 
 ## Contents of This Repo
@@ -71,17 +47,7 @@ Mark page numbers  with a reference like this `[l.31]: #` for *leathanach 31*. T
 
 Chapter PDFs live under `caibidlí/` (e.g. `manannan01.pdf`). Conversion scripts are in [`caibidlí/conversion/`](caibidlí/conversion/) (e.g. [`build_new_orthography.py`](caibidlí/conversion/build_new_orthography.py), [`fetch_caighdean_chapter.py`](caibidlí/conversion/fetch_caighdean_chapter.py)).
 
-### Assets
-
-- **Manannán_pages_1-20.pdf** — PDF, pages 1–20 (the full 188-page scan exceeds GitHub’s file size limit)
-- **Manannán_09-13.txt** — Extracted and corrected text, pages 9–13
-- **Manannán_13-18.txt** — Extracted and corrected text, pages 13–18
-- **Manannán_15-20_tg.txt** — pages 15–20
-- **Manannán.jpg** — JPEG of the cover
-- **Manannán.png** — lossless high-resolution PNG of the cover
-
-Pages 9–18 overlap with the opening of the first chapter; page 13 appears in more than one extract as a transition.
-
 ### epub
 
 - Scripts and files to build an EPUB
+- Not implemented yet. If you would like to buy a copy when a physical reprint exists, please comment.
