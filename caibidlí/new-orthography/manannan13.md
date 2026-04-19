@@ -1,6 +1,6 @@
 [l.151]: #
 
-# An Troid leis na Cráidhmí
+# An Tróid leis na ‘Cráidhmí’
 
 Bhí fhios ag Brian gur chun na Cráidhmí a dhísciú a deineadh
 an róbot, ach d’imthigh an oidhche sin agus dhá oidhche
@@ -15,7 +15,7 @@ iad a dhísciú ?”.
 arsa Máirtín. “Árrachtaigh dé-bheathach is eadh iad, agus
 is comh-dheas dóibh muir is tír. I n-íochtar na fairrge is
 mó a bhíonn siad, áit inar deacair dúinn teacht ortha agus
-iad a throid. DH’á bhrí sin is fearra dhúinn fanacht go
+iad a throid. Dh’á bhrí sin is fearra dhúinn fanacht go
 dtí go dtiocfaidh siad amach ar an dtalamh thirim chughainn.
 Bítear ag faire de ló is d’oidhche agus chomh luath agus a
 chuirfidh ceann aca cos i dtír beidh “Lugh Lámh-fhada’ ar
@@ -34,7 +34,7 @@ bhánuigh ar Nící agus do phreab sé ina sheasamh.
 [l.152]: #
 
 “Cad é an rud é sin ?” arsa Seán. “Cad ’na thaobh
-go bhfuil an adharc á *seideadh ?”
+go bhfuil an adharc á seideadh ?”
 
 “Fógra é sin go bhfuil na Cráidhmí chughainn,” arsa
 Nící. “Na daoine a bhíonn ag obair ins na guirt agus ins

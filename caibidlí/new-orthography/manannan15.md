@@ -63,7 +63,7 @@ réaltóir.
 
 Thuig sé féin agus Máirtín aigne a chéile go breágh,
 ach níor leigeadar aon nidh ortha. Thuigeadar, leis, gur
-mhaith an bhail ortha ná raibh an tÁrd-Mháighistír ann an
+mhaith an bhail ortha ná raibh an tÁrd-Mháighistir ann an
 
 [l.180]: #
 uair sin, mar go mbeadh fhios aige an rud a bhí ar aigne
@@ -155,10 +155,10 @@ go dtiocfadh sé linn nuair a bheimís ag dul abhaile.’
 féin” arsa an réaltóir. “Bheadh uaigneas air i nÉirinn
 i measc stróinséir ná beadh aon tuiscint aca dhó.”
 
-” Ach-ach-ceapfaidh an tÁrd-Mháighistir go raibh fhios
+” Ach-ach-ceapfaidh an tárd-Mháighistir go raibh fhios
 aige sinn a bheith ag éalódh uaidh, agus déanfaidh sé
 díoghaltas d’agairt air fé mar a dhein sé ar na daoine
-eile úd.” Agus bhí iia deora le n-a shúile ag Brian agus
+eile úd.” Agus bhí na deora le n-a shúile ag Brian agus
 é ag rádh na cainte.
 
 “Ní baoghal dó,” arsa an réaltóir. “Ní bheidh aon
@@ -242,7 +242,7 @@ croidhe-bhriste. Leag an réaltóir lámh ar a ghualainn.
 “Ná bíodh ceist ort, a Sheáin,” ar seisean. “Tá
 dóthain beirte agam-sa.”
 
-“Mise is mó a fuair de sheoda ó’n Árd-Mháigistir,”
+“Mise is mó a fuair de sheoda ó’n Árd-Mháighistir,”
 
 [l.185]: #
 arsa Máirtín. “Tabharfad a leath dhuit nuair a bhainfimíd

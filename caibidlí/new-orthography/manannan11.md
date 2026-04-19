@@ -1,6 +1,6 @@
 [l.124]: #
 
-Oidhche thar oidhcheanta
+# Oidhche thar Oidhcheanta
 
 Ar aghaidh leis an mbeirt gharsún, an bogach mealltach
 Ar thaobh amhain díobh agus an cnoc géar árd ar an
@@ -175,7 +175,7 @@ go bhfeicimís slighe éigin as.”
 
 “Mara mbímíd thar n-ais sa chathair roimh meadhon
 lae,” arsa Nící, “éireochaidh le Grágó sa chlaon-bheart
-atá socair aige, agus cuirfear an tÁrd-Mháighistir agus
+atá socair aige, agus cuirfear an tárd-Mháighistir agus
 lucht na hÁrd-Chomhairle chun báis.”
 
 “Ní fearr a bheith ag cuimhneamh air mar scéal,” arsa
@@ -437,7 +437,7 @@ a chodladh dhaoibh féin.”
 “Ach—ach—an t-inneall,” arsa Brian.
 
 “Fág fúm-sa an t-inneall agus a mbeidh ann,” arsa
-an tÁrd-Mháighistir. “Nuair a thiocfaidh siad-súd aníos
+an tárd-Mháighistir. “Nuair a thiocfaidh siad-súd aníos
 tríd an dtalamh chughainn beimíd ullamh dóibh,” agus ní
 ró-dheas an fhéachaint a bhí ina shúilibh agus é ag rádh na
 cainte sin.

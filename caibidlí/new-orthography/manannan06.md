@@ -1,6 +1,6 @@
 [l.68]: #
 
-# na ‘cráidhmí’
+# Na ‘Cráidhmí’
 
 Catair aoibhinn áluinn ab eadh í. Bhí imeall gach
 sráide maisighthe Le bláthanna agus le tuir
@@ -237,8 +237,8 @@ iad sa meid go raibh iliomad cos fútha agus sliogáin
 
 [l.75]: #
 
-mhóra chruadha ar a ndrom. Ach bhí scrugaLL de mhuineáL
-fada caoL ar gach ceann aca agus aghaidh ar gach scrugaLL
+mhóra chruadha ar a ndrom. Ach bhí scrugall de mhuineál
+fada caol ar gach ceann aca agus aghaidh ar gach scrugall
 díobh mar a bheadh ar ápa nó ar fhathach fhíor-ghránda. Chonnaic
 Brian a súile beaga nimhneacha ag glinneamhaint air sa
 doircheacht. Taidhbhisigheadh dó go raibh na céadtha aca

@@ -3,8 +3,8 @@
 
 le ceannach díreach ó
 
-OIFIG DÍOLTA FOILLSEACHÁIN RIALTAIS, 3—4, SRÁID AN CHOLÁISTE.
-BAILE ÁTHA CLIATH.
+OIFIG DÍOLTA FOILLSEAChÁIN RIALTAIS, 3—4, SRÁID AN ChOLÁISTE.
+BAILE ÁThA CLIATh.
 
 no tré aon díoltóir leabhar.
 
@@ -22,15 +22,15 @@ Foillsigheadh de’n chéad uair, 1940.
 
 #     
 
-Toirbhirim an leabhar so do BHRIAN
+Toirbhirim an leabhar so do BhRIAN
 mar go dtug sé cabhair agus comhairle
 dhom agus mé á scríobhadh.
 
-M. Ní GH.
+M. Ní Gh.
 
 Mí na Nodlag, 1939.
 
-# CLÁR AN LEABHAIR
+# CLÁR AN LEABhAIR
 
 |                                   |Leathanach.|
 | :---                                  | ---:|

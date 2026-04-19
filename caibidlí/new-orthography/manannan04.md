@@ -102,11 +102,11 @@ feictear ar an saoghal seo, agus duilliúr tiugh ioldathach ortha.
 
 Bhí Brian ag féachaint ortha ag árdú an eitealláin
 
+
 [l.47]: #
 
 leo, agus a bhéal ar leathadh aige le hiongnadh agus le
 halltacht.
-
 “An amhlaidh ná fuil aon mheádhchan san eiteallán ? ”
 
 ar seisean.
@@ -163,6 +163,7 @@ Bhain an bheirt eile triail as, ach ní túisce a chuiridís
 a gcosa thar an áit ina rabhadar ná caithtí siar ar chúl
 a gcinn iad.
 
+
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé nidh é.”
 
@@ -213,7 +214,6 @@ an bhóthair agus do chromadar ar shúgradh dhóibh féin. Iad
 ag béicigh agus ag liúraigh chun a chéile mar a bheadh leanbhaí
 saoghalta. Do stad an ceathrar chun éisteacht leo. Bhí
 glórtha binne caola aca ach toisc a éadtruime a bhí an
-
 [l.50]: #
 
 t-aer d’fhéadfaidís gach aon nidh a chloisint go soiléir.
@@ -269,7 +269,7 @@ an bhóthair.
 
 Fuair na leanbhaí ana-shult san obair. Bhíodar ag
 tuitim ar a gcosaibh le greann is le gáiridhe, agus d’á
-mhéid fearg a bhí ar Bhrian chúcha is eadh is- mó a bhíodar ag
+mhéid fearg a bhí ar Bhrian chúcha is eadh is mó a bhíodar ag
 scairteadh.
 
 Do leig Seán scread ortha.
@@ -286,6 +286,7 @@ n-eiteallán.” Do dhein sé comharthaí le n-a dhá láimh agus
 do chuir crónán as a bhéal agus é ad iarraidh aithrise a
 
 [l.52]: #
+
 
 dheanamh ar dhordan an eitealláin. Níor dhein na leanbhaí
 ach a méireanna féin a shíneadh chun na speire agus crónán

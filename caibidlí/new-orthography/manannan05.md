@@ -23,11 +23,10 @@ chromadar ar gháiridhe annsan agus do labhradar leis
 ina dteangain féin.
 
 “ Ó, bhó, bhó,” arsa Seán, “is dócha go bhfuilid a
-rádh leis gur cleasuidhe sinn, nó geilt atá tar éis ealódh
+rádh leis gur cleasuidhthe sinn, nó geilt atá tar éis ealódh
 as tigh na ngealt.”
 
-“ Éist,” arsa an réaltóir, “ tá sé ag caint linn.”
-
+“ Éist,” arsa an réaltóir, “ tá sé ag cainth linn.”
 
 [l.54]: #
 
@@ -62,7 +61,6 @@ Do stad an bheirt tamall uatha agus do labhair an
 t-oifigeach leo. Focal níor thuig uaidh. Do labhair
 fé arís leo agus do dhein comharthaí le n-a dhá láimh.
 
-
 [l.55]: #
 
 “ Éirigh as, a mhic ó,” arsa Seán. “ Ní thuigimíd
@@ -95,7 +93,6 @@ gáiridhe, agus do bhagair ortha chun é féin a leanamhaint.
 chomh bascaithe, brúighte, leointe sin ná cuirfidh cúpla
 leagadh eile aon bhreis máchail orainn.”
 
-
 [l.56]: #
 
 D’éirigh Seán agus do shiubhail go réidh aicillidhe i
@@ -127,7 +124,6 @@ chomhairle cé aca ina chogadh nó ina shíothcháin a bheadh sé
 eatortha. An garsún gur bhagair sé trom air ó chianaibh
 Do dhruid sé anall chuige agus do shín rud i bhfuirm ubhaill
 chuige. Do glac Brian an t-ubhall uaidh agus d’fhéach air.
-
 
 [l.57]: #
 
@@ -162,7 +158,6 @@ bhí gruaig fhionn-órdha air fé mar a bhí ar gach einne eile
 san áit. Do labhair an t-oifigeach cúpla focal leis ina
 theangain féin, agus tháinig an fear anall chúcha.
 
-
 [l.58]: #
 
 “ Anois duit, a Sheáin,” arsa an réaltóir, “ dein do
@@ -190,12 +185,11 @@ uaidh agus d’fhéach go cruinn air. Bonn de’n tseana-
 dhéanamh a bhí ann agus peictiúir de Rí Shasana greanta
 ar thaobh de. D’infhiúch an fear an peictiúir go géar, agus
 d’fhéach ó dhuine go chéile ortha, fé mar a bheadh sé ad iarraidh
-a dhéanamh amach cibé duine- aca go raibh a pheictiúir ar
+a dhéanamh amach cioca duine aca go raibh a pheictiúir ar
 an sobhran. Nuair a bhí sé sásta ina aigne nárbh einne
 aca-san é do chroit sé a ghuailne ar nós duine go raibh
 teipithe air bun ná barr a dhéanamh de’n scéal, agus do
 shín an píosa óir thar n-ais chun Máirtín.
-
 
 [l.59]: #
 
@@ -228,7 +222,6 @@ sé aon teanga aca.”
 Chomh maith do dhein. Labhradar leis as Frainncis,
 as Gearmáinis, as Spáinnis agus as Iodáilis. Bhí cúpla
 
-
 [l.60]: #
 
 focal de’n Rúisis ag Máirtín agus do bhain sé triail
@@ -259,7 +252,6 @@ Ní raibh, agus b’éigean dóibh éirghe as.
 a lámh d’á bholg.
 Murar thuig an t-ollamh na teangthacha léigheanta, do
 thuig sé an comhartha san. Do gháir sé le Brian agus do
-
 
 [l.61]: #
 
@@ -294,7 +286,6 @@ réaltóir.
 sa tseans leis. Táim caoc leis an ocras,” agus do
 chrom sé ar an mbiadh a ithe.”
 
-
 [l.62]: #
 
 Biadh milis blasta a bhí ann. Rud i bhfuirm leitean a
@@ -327,7 +318,6 @@ uisce a stealladh anuas air chun é do mhúchadh.
 
 “Dream deigh-bhéasach cliste is eadh muintear na
 háite seo,” arsa an réaltóir, agus é ag deargadh an
-
 
 [l.63]: #
 
@@ -363,7 +353,6 @@ mhéar chun na dighe éile agus dubhairt an focal: “Mómá.”
 
 “Ní teanga ró-chruaidh í sin,” arsa Seán. “Á lómá
 
-
 [l.64]: #
 
 a tugaim siad ar an uisce agus “Mómá” ar an noigh
@@ -394,7 +383,6 @@ Do shín an garsún a lámh ós cionn na dighe eile agus
 cualathas dhá nóta eile: “Mómá” a dubhairt sí sin.
 Bhí Seán ag féachaint air agus a dhá shúil agus a bhéal
 ar leathadh aige.
-
 
 [l.65]: #
 
@@ -430,7 +418,6 @@ go bhféadfaidís a n-ainmneacha a innsint dúinn as
 Frainncis nó as Laidin. Ní bheadh aon ghádh againn le
 stuidéar a dhéanamh as leabhair scoile.”
 
-
 [l.66]: #
 
 “Ní fheadar an bhféadfainn-se é dhéanamh,” arsa
@@ -463,7 +450,6 @@ an fear mór ina dteannta feasta.
 
 “Tá sás ár gcosanta ann, ach go háirithe,” arsa
 Seán.
-
 
 [l.67]: #
 
