@@ -5,8 +5,8 @@ Fetch Caighdeán (Intergaelic) output for one chapter: new-orthography → spell
 
 Reads:  caibidlí/new-orthography/manannanNN.md  (grapheme layer only)
 Writes: caibidlí/spelling/manannanNN.md           (same text + API spelling; authoritative for spelling/)
-        caibidlí/spelling/manannanNN.pairs.tsv   (source\\ttarget tokens; may include ___MANANPH___ placeholders)
-        caibidlí/spelling/manannanNN.diff.tsv    (rows where source != target)
+        caibidlí/spelling/manannanNN.pairs.tsv   (local only; gitignored)
+        caibidlí/spelling/manannanNN.diff.tsv    (local only; gitignored)
 
 Examples:
   python3 caibidlí/conversion/fetch_caighdean_chapter.py --chapter 01

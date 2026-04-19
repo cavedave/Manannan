@@ -38,6 +38,8 @@ python3 caibidlí/conversion/fetch_caighdean_chapter.py --all --only-missing --d
 
 On HTTP errors, empty API responses, or bad JSON, the script exits and does not continue. Chunk size is capped in [`caighdean_api.py`](caighdean_api.py) so POST bodies stay under server limits.
 
+The script also writes `*.pairs.tsv` and `*.diff.tsv` next to each `spelling/manannanNN.md`; those are **gitignored** (regenerate locally whenever you need them).
+
 ## What is not automated yet
 
 - **Proofreading** and PDF alignment — still human work on `old-orthography/`.
