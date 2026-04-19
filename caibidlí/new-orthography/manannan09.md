@@ -1,4 +1,4 @@
-[1.98]: #
+[l.98]: #
 
 oidhche SA choill
 
@@ -23,7 +23,7 @@ tamall ó shoin,” ar seisean le Brian.
 “Is mé,” arsa Brian.
 “Ba mhaith leis tigh na haibhléise a fheiscint,” arsa an
 garsún eile.
-[1.99]: #
+[l.99]: #
 
 “Táim féin ag dul ag obair ann anois,” arsa an fear.
 “má’s fonn leat an áit a fheiscint níl a bhac ort teacht
@@ -50,7 +50,7 @@ an lá a tháinís?”
 Do gháir an fear agus é ag cuimhneamh air.
 “Bhí ana-spórt agam ag féachaint oraibh an Lá san,”
 ar seisean.
-[1.100]: #
+[l.100]: #
 
 “Ní fheaca an-n tú,” arsa an garsúin.
 “Ní rabhas ann chuige. Istigh annso a bhíos agus mé
@@ -78,7 +78,7 @@ sruthán aibhléise ag síor-ghluaiseacht timcheall na cathrach.
 Chun an áit a chosaint ar na iCráidhmí is -eadh a cuireadh
 anne. Cuireann comhacht ana -haibhléise creathán sa talamh
 i dtreo is ná féadann éinne gabháil thairis isteach ná amach,
-[1.101]: #
+[l.101]: #
 
 ach amháin nuair a deintear an sruthán aibhléise a scur.
 Caitheann an Pobal cead a lorg chun dul amach as an
@@ -105,7 +105,7 @@ i n-aon chontabhairt.”.
 “dá bh.feici-nn arís i-ad ní chuirfidís oiread san scannartha
 “Ní haon dóichín iad na Cráidhmí,” arsa an fear.
 “b’fhearra dhuit tú féin a sheachaint ortha.”
-[1.102]: #
+[l.102]: #
 
 “Is truagh Liom ná rugas ar an bpeidhleacán san,”
 arsa Brian, agus é ag féachaint ar an bpeictiúir.
@@ -132,7 +132,7 @@ aca? ” ar seisean.
 fear, “scuirfead an sruthán aibhléise chun tú leigint amach.
 Tosach na hoidhche an tráth is fearr chun teacht ortha.”
 “Ach an baoghal dom na Cráidhmí? ”
-[1.103]: #
+[l.103]: #
 
 “Ní baoghal duit iad ach gan dul ró-fhada ó bhaile.
 Tá pluaiseanna beaga ar imeall na coille, agus má
@@ -159,7 +159,7 @@ sibh chomh Luath agus a thiocfaidh sibh. Ní gádh dhaoibh aon
 eagla a bheith agaibh roimis na Cráidhmí. Is fíor-annamh
 a thagann siad amach san oidhche, pé mí-ádh a bhí ort-sa an
 oidhche eile úd.”
-[1.104]: #
+[l.104]: #
 
 Ba gearr ina dhiaidh san. gur ghluais an bheirt gharsún
 ó’n gcathair amach, a líontán fé n-a ascaill ag gach duine
@@ -187,7 +187,7 @@ ciúin aicillídhe le dhá mhada rua. Ní raibh. aon léas solais
 sa choill. Ní raibh radharc aca ar an spéir ná ar shoillse
 na cathrach i gcéin, toisc brat tiugh de dhuilleabhar na
 gcrann a bheith ar gach aon taobh díobh agus ós a gcionn
-[1.105]: #
+[l.105]: #
 
 i n-áirde. Fuaireadar boladh trom ó sna bláthanna
 agus ó sna tuir máigcuairt. BH-í Leoithne beag gaoiathe
@@ -216,7 +216,7 @@ chluai-s.
 "Éist, ar seisean, “ta duine éigin. chughainn-.”
 D’fhan an bheirt ina dhá stalca gan cor a Chur asta,
 agus níorbh fhada go bhfeaeadar an fear ag ealódh tré
-[1.106]: #
+[l.106]: #
 
 sna crannaibh, agus é ag siubhal chomh héadtrom san ná
 brisfcadh craobh chríon fé n-a chosaibh. Nuair a tháinig sé
@@ -244,7 +244,7 @@ d’fhéach ar an ngarsún eile.
 ainm dó. Ní fheadar cad ab áil leis ag éalódh tré sna
 pluaiseanna i lár na hoidhche.”
 “Leanaimís é,” arsa Brian.
-[1.107]: #
+[l.107]: #
 
 Do shleamhnuigh an bheirt gharsún isteach sa phluais.
 Bhí sí chomh híseal san gurbh éigean dóibh dul de lamhancán
@@ -272,7 +272,7 @@ arís. “Ach féach,” ar seisean, “cad é an rud é sin ar
 an úrlár?”.
 Bhí líne de sholas geal ar úrlár na pluaise tamall
 uatha. Anonn leo chun na háite agus Chaitheadar iad fein
-[1.108]: #
+[l.108]: #
 
 Ar A mbheal. Asus ar a n-aghaidh á hinfhiúchadh. Chualadar
 fuaim an innill mar a bheadh tóirneach bhodhar thíosa fútha.
@@ -301,7 +301,7 @@ an innill, á infhiúchadh.
 “Cad é an saghas innill é?” arsa Nící.
 “Níl fhms agam,” arsa Brian, “ní bhíonn a leithéid
 againn i nÉirinn.”
-[1.109]: #
+[l.109]: #
 
 Cuma uibh a bhí ar an inneall. É déanta de mhiotal
 gheal chruaidh, agus é ag lonnradh agus ag spréacharnaigh sa

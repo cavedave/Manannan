@@ -1,4 +1,4 @@
-[1.76]: #
+[l.76]: #
 
 # an tárd-mháighistir
 
@@ -25,7 +25,7 @@ fuair sé é féin i sráid ná raibh ró-fhada chun an tigh ina raibh
 sé ag cur fé, agus níorbh ’fhada go raibh sé sínte ar a
 leabaidh agus é ina chodladh go sámh.
 
-[1.77]: #
+[l.77]: #
 
 Bhí lán-tsolas na maidne ann nuair a dhúisigh sé, agus
 bhí an triúr fear suidhte chun búird nuair a bhuail sé isteach
@@ -57,7 +57,7 @@ mór iad ar a fheabhas agus ar a thapamhlacht a bhí an teanga
 foghlumtha aca, agus d’fhiafruigh díobh cad é an gnó a thug
 
 
-[1.78]: #
+[l.78]: #
 
 á fheiscint féin iad. Do mhínigheadar a scéal dó chomh
 maith agus d’fheadadar é, agus d’iarradar cead air chun
@@ -86,7 +86,7 @@ fhuadar fé. D’árduigh sé a lámh ag beannú dhóibh agus
 dhein óráid fhada ag míniú a scéil dóibh. Má dhein, ní
 ró-mhaith a thuigeadar-fan é.
 
-[1.79]: #
+[l.79]: #
 
 “ Cad é sin a deir sé ? " arsa an réaltóir i gceann
 tamaiu.
@@ -114,7 +114,7 @@ Do threoruigh an gárda iad fan na gcasán go dtí
 go bhfuaireadar iad féin ar an dtaobh thall de’n chathair.
 ’
 
-[1.80]: #
+[l.80]: #
 
 “ An dtugann tú fé ndeara, a athair,’ arsa Brian
 agus iad ag cur an bóthair díobh, “ an dtugann tú fé
@@ -143,7 +143,7 @@ de ghruaig rua ar .an Árd-Mháighistir, agus bhí órdlach
 ar aoirde aige de bhreis ar éinne eile aca. Fear breágh
 pearsanta ab eadh é. É go deigh-sheasaimh, maordha ann 
 
-[1.81]: #
+[l.81]: #
 
 féin, agus dá shúil gheala ghorma ag glinneamhaint ina
 cheann. Bhí éadaighe míne geal-daithte uime, agus iad
@@ -178,7 +178,7 @@ Níor dhein cuid aca-san ach strac- fhéachaint a thabhairt air,
 ach do dhein a thuille aca é d’infhiúchadh go cruinn. Sé
 dhein abhfurmhór náa gceann a chrothad agus gáire magamhail
 
-[1.82]: #
+[l.82]: #
 
 a chur asta. Ba léir nár chreideadar focal de thuairischí
 “ m chreideann siad mé,” ar seifean Le Máirtín.
@@ -207,7 +207,7 @@ na freagraí a bhí ag Seán á dtabhairt ar cheisteanna an
 Bhí sé ag dul dian go leor ar Sheán bocht cúrsaí
 eiteallóireachta a mhíniú i dteangain Mhanannáin, agus
 
-[1.83]: #
+[l.83]: #
 ba mhinic é ag tochas a chinn agus é ad iarraidh cuimhneamh ar
 na focail a mhíneóchadh a scéaL do’n chuideachtain. Caithfear
 a admháil gur dhein sé eascaine nó dhó fé n-a anál i
@@ -239,7 +239,7 @@ atá i mbun tighe na haibhléise annso féachaint ar bh’é a
 dtoil cuid d’á sár-eolas féin” a thabhairt dom le breith thar
 n-ais chun mo mhuintire féin.’
 
-[1.84]: #
+[l.84]: #
 
 D’fheach na fir ar a chéile nuair a chualadar an freagra
 san, ach ní raibh fhios ag an réaltóir ar thaithn sé leo nó
@@ -269,7 +269,7 @@ gceistiú agus sinne ag tabhairt gach aon eolais dó?”
 sinne a thriail; B’é an. tárd-Mháighistir an breitheamh agus
 an chuid eile aca an coiste dáréag, agus tá siad ag cur
 
-[1.85]: #
+[l.85]: #
 
 
 is ag cúiteamh annsan istigh féachaint cioca saor-bhreith
@@ -298,7 +298,7 @@ Leis sin do chuir Brian Liúgh as le háthas.
 “ Féach na saighdiúirí,” ar seisean. “ Tagaidh annso
 go bhfeicidh sibh na saighdiúirí.”
 
-[1.86]: #
+[l.86]: #
 
 Anonn leis an dtriúr eile chun na fuinneóige. Bhí
 díorma saighdiúir ina seasamh i nthaon líne amháin ós comhair

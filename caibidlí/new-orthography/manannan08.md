@@ -1,4 +1,4 @@
-[1.87]: #
+[l.87]: #
 
 # an príosún
 
@@ -26,7 +26,7 @@ Ní thug Ámón aon fhreagra ar an gceist sin. Níor
 dhein sé ach dul anonn chun an dorais agus bagairt ar
 na saighdiúirí chun teacht isteach.
 
-[1.88]: #
+[l.88]: #
 
 “Cad ’na thaobh go bhfuiltear ár gcur i bpríosún? ”
 arsa Brian.
@@ -53,7 +53,7 @@ Chuir Ámón a Lámh ar ghualainn Bhriain agus thug
 féachaint bhog chneasta air.
 “Tiocfaidh sé seo i n-éinfheacht liom-sa,” ar seisean.
 “Tabharfad féin agus Nící aire dhó.”
-[1.89]: #
+[l.89]: #
 
 “Ní leigfead leat é,” arsa an réaltóir. “Cá
 bhfios cad d’imteochadh air agus mise fé ghlas agus gan
@@ -81,7 +81,7 @@ síos, síos, go dtí gur cheapadar ná stadfadh sé. go deo.
 arsa Seán. “Ní foláir nó táimíd céad troigh fé thalamh
 cheana féin.”
 
-[1.90]: #
+[l.90]: #
 
 Do stad an tógachán i gceann tamaiLL, agus thángadar
 .imaCh as. Do leag an t-oifigeaCh amhéar ar Chnaipe eile
@@ -108,7 +108,7 @@ Anonn leo chun an dorais sin agus d’oscluigheadar é.
 Bhí trí seomraí beaga istigh; leabaidh ins gach seomra dhíobh
 agus dabhaCh mhór chun iad féin a nighe agus a fholcadh. Ní
 raibh aon doras ar chúl na seomraí, ámhthach.
-[1.91]: #
+[l.91]: #
 
 “Is geaLL Le tigh ósta an áit seo,” arsa Máirtín.
 “Is mó tig ósta i nÉirinn ná fuil chomh glan ná
@@ -138,7 +138,7 @@ Do bhris an fuar-allus amach ar a bhaitheas agus é ag
 cuimhneamh ar an gcuma ina ndeintí príosúnaigh a chéasadh
 agus a mhilleadh sa tsean-aimsir Chun a chur d’fhiachaibh
 
-[1.92]: #
+[l.92]: #
 
 ortha a gcoirthe a admháil. Cá bhfios ná go raibh na nósanna
 barbruithe sin á cheachtadh fós ag muintir Mhanannáin.
@@ -166,7 +166,7 @@ Le n-a linn sin tháinig beirt de sna saighdiúirí isteach
 agus miasa móra bídh á n-iomchar aca. Bhí ocras ar
 Mháirtín agus ar Sheán, ach níor fhéad an réaltóir greim
 a bhlaiseadh.
-[1.93]: #
+[l.93]: #
 
 “Ná bhí ad’ bhuaidhreadh féin mar sin,” arsa Seán Leis.
 “NíL aon bhaoghaL ar an ngarsún san. Tabharfaidh Ámón
@@ -196,7 +196,7 @@ bhí riamhG Bhí Nící agus Ámón i n-éinfheacht leis.
 bpríosún,” agus d’fhéach sé ina thimcheall ar gach aon nidh.
 “Ish dócha gur cheapais go mbeadh ceanGAL cos is
 
-[1.94]: #
+[l.94]: #
 
 lámh orainn,” arsa Seán agus é ag oscailt a shúl agus á
 ndúnadh arís go tapaidh.
@@ -223,7 +223,7 @@ D’fháisc Brian Lámh a athar agus é ag imtheacht.
 fada go mbeir saor as so.”
 “Seadh,” arsa Máirtín, chomh luath agus bhí an bheirt
 gharsún imthighthe, “cad a déanfar linn? ”
-[1.95]: #
+[l.95]: #
 
 “Níl aon mdh socair againn fós,” arsa Ámón. “Níl
 an Árd-Chomhairle ar aon aigne mar gheall oraibh. Is
@@ -251,7 +251,7 @@ orainn ní bhíonn aon dul as againn. Nuair a thagann na
 mílte fear inár gcoinnibh ní bhíonn aon Leigheas againn
 ortha ach iad a dhísciú suL a ndísceofaí sinn. Ach ní gadh
 
-[1.96]: #
+[l.96]: #
 
 triúr fear a chur- chun bháis chun a chuir as a gcumas aon
 díogbháiL a dhéanamh dúinn. ”
@@ -279,7 +279,7 @@ slighte iad,” arsa Seán leis féin.
 “Ní mór domh-sa bheith ag imtheacht anois,” arsa
 Ámón. “Beifear ag feitheamh liom.”
 
-[1.97]: #
+[l.97]: #
 
 Bhuail sé cnag ar an ndoras, do hoscladh dó é, agus
 do dúnadh ina dhiaidh arís é.

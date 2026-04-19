@@ -1,4 +1,4 @@
-[1.68]: #
+[l.68]: #
 
 # na ‘cráidhmí’
 
@@ -28,7 +28,7 @@ duine ach dul i n-áirde ar pé taobh a oireadh dó.
 Ba bhreágh le Brian na casáin sin. Thabharfadh sé an
 lá ar fad ar imarcuideacht ortha dá leigtí dó é, ach ní
 
-[1.69]: #
+[l.69]: #
 
 thabharfadh an t-athair cead dó chun dul i n-aon áit gan an
 chuid eile a bheith i n-éinfheacht leis.
@@ -64,7 +64,7 @@ phláinéid seo?”
 “Tá an brat san idir an áit seo agus an ghrian.
 Leigeann sé an solas tríd isteach. Mara mbeadh go
 
-[1.70]: #
+[l.70]: #
 
 leigeann bheadh an áit seo dubh dorcha i gcomhnuidhe. Ach ní
 féidir feiscint tríd.”
@@ -102,7 +102,7 @@ ar fuaid na cathrach fé mar is mian Linn?” arsa Seán.
 “Níl, mar bíonn látós inár dteannta i gcomhnuidhe
 agus seolann sé sinn sa treo is mian leis féin sinn do
 
-[1.71]: #
+[l.71]: #
 
 Dhul. Féach an sud a tárla indiu nuair A theastuiGh uaim
 dul isteach i dtigh na haibhléise.”
@@ -137,7 +137,7 @@ iomchar treasna na sráide agus é chur i n-áirde ar an
 gcasán ar an dtaobh eile. Do dhubhuigh agus do dhearguigh
 ar an réaltóir le feirg, ach níor fhéad an chuid eile aca
 
-[1.72]: #
+[l.72]: #
 
 gan gaire a dheanamh nuair a chonnacadar an fear mór á
 árdach ims ina bhaclainn mar a árdóchadh sé páiste.
@@ -172,7 +172,7 @@ Tháinig crith cos is lámh ar Nící nuair a thuig sé cad é
 an fuadar a bhí fútha. Do labhair sé leo go fada agus go
 dúthrachtach agus é ag féachaint ó dhuine go chéile ortha, ach
 
-[1.73]: #
+[l.73]: #
 
 ní raibh a ndóthain de n teangain aca chun a chuid cainte a
 thuiscint. Chuasladar an fochal “chráidhmí” go minic uaidh,
@@ -203,7 +203,7 @@ cionn na mbláth leasmuigh de’n bhfuinneóig. Bhí an seomra
 ar aon leibheal leis an dtalamh, agus níor dhein Brian ach
 léimt. Amach ra gháirdín agus an líontán ina láimh aige.
 
-[1.74]: #
+[l.74]: #
 
 D’fhan an peidhleacán go dtí go raibh sé i ngiorracht
 órdlaig do. D’eirigh se annsan agus d’eiteal cúpla
@@ -235,7 +235,7 @@ se chuige iad-na hárrachtaigh ba mhó agus ba ghránda d’á
 bhfeaca súil duine riamh. Ba chosmhail le portáin oll-mhóra
 iad sa meid go raibh iliomad cos fútha agus sliogáin
 
-[1.75]: #
+[l.75]: #
 
 mhóra chruadha ar a ndrom. Ach bhí scrugaLL de mhuineáL
 fada caoL ar gach ceann aca agus aghaidh ar gach scrugaLL
