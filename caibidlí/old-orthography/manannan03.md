@@ -399,7 +399,7 @@ t-aṫair. “Táimíd ag gaḃáil anois tríd an mbrat geasa
 atá timċeall air. Nuair a ḃeiḋ gaḃṫa againn átríd an
 mbrat san beiḋ raḋarc againn ar Ṁanannán féin.”
 
-Dob ḟíor dó. Do neartuiġ ar an gcoṁaċt a ḃí á
+D’ḃí ḟíor dó. Do neartuiġ ar an gcoṁaċt a ḃí á
 dtarraing anuas, agus do neartuiġ ar an solas go dtí
 go raiḃ sé ċoṁ geal leasmuiġ de’n eiteallán agus a
 ḃíonn le linn an ċéad aṁascarnaiġ de ṡolas na maidne

@@ -240,7 +240,7 @@ scáileán a ḃí treasna ar an ḃfuinneóig.
 “Ó, a ḋaid,” ar seisean, “leig dom-sa í Feiscint."
 
 Do baineaḋ geit as an mbeirt eile aċ do leag an
-realtóir a láṁ ar ċeann an ġarsúin agus do laḃair go
+réaltóir a láṁ ar ċeann an ġarsúin agus do laḃair go
 cneasta leis.
 
 “Ċeapas go raiḃ tusa id’ leabaiḋ fadó riaṁ, a ṁic,”

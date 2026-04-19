@@ -1,6 +1,6 @@
 [l.18]: #
 
-# An Radharc tríd an gCiandracán
+# An Radharc tríd an gciandracán
 
 Ní raibh de sholas i dtigh na gciandracán ach léas
 beag lag a bhí ag teacht isteach tré oscailt a bhí i

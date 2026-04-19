@@ -240,7 +240,7 @@ scáileán a bhí treasna ar an bhfuinneóig.
 “Ó, a dhaid,” ar seisean, “leig dom-sa í Feiscint."
 
 Do baineadh geit as an mbeirt eile ach do leag an
-realtóir a lámh ar cheann an gharsúin agus do labhair go
+réaltóir a lámh ar cheann an gharsúin agus do labhair go
 cneasta leis.
 
 “Cheapas go raibh tusa id’ leabaidh fadó riamh, a mhic,”

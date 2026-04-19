@@ -449,7 +449,7 @@ ionnus go raiḃ raḋarc aca ar ċosa an róboit. Ċonnacadar
 an rud casta timċeall ar a ċois ċlé mar a ḃeaḋ téad
 ṁaiṫ láidir ann.
 
-“Ta sé tar éis dul i n-aċrann sa ḃfeamanaiġ,”
+“Tá sé tar éis dul i n-aċrann sa ḃfeamanaiġ,”
 arsa Sean.
 
 [l.150]: #

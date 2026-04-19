@@ -70,7 +70,7 @@ a ċífear an t-inneall so ag éirġe aníos as an dtalaṁ
 agus scata d’ḟearaiḃ armṫa ag léimt as, ní baoġal go
 gcuirfiḋ éinne id’ ċoinniḃ. Ní ḃeiḋ le déanaṁ agat aċ
 gluaiseaċt láiṫreaċ go Halla na hÁrd-Ċoṁairle, an
-tÁrd-Ṁáiġistir a ċur ċun báis agus an Árd-Ċoṁairle
+tárd-Ṁáiġistir a ċur ċun báis agus an Árd-Ċoṁairle
 go léir do ġaḃáil sul a mbeiḋ sé d’uain aca a meaḃair
 ċinn a ċruinniú. Déanfair tú féin a ḟógairt id’ Árd-
 Ṁáiġistir ar an gcaṫair, agus beiḋ riṫ an ráis leat as
@@ -211,11 +211,11 @@ Brian.
 
 “Duine de náiṁde an Árd-Ṁáiġistir é,” arsa
 Nící. “Is minic a ċuala mo ṡean-aṫair ag cur síos orṫa.
-Ta caṫair aca ar an dtaoḃ ṫall de sna cnuic. Tá éad
+Tá caṫair aca ar an dtaoḃ ṫall de sna cnuic. Tá éad
 aca linne toisc gur saiḋḃre agus gur coṁaċtaiġe sinne
 ná iad féin. Níl aċ talaṁ ḃoċt lom i measc na gcnoc,
 gan cloċa luaċṁara ná mianraiġe d’aon tsaġas innte.
-Sin é an fáṫ go ḃfuil fonn orṫa an tÁrd-Ṁáiġistir a
+Sin é an fáṫ go ḃfuil fonn orṫa an tárd-Ṁáiġistir a
 ṁarḃú agus Grágó a ċur ina ionad. Ċualaís an margaḋ
 a ḋeineadar i dtaoḃ na mianaċ a ṫaḃairt dóiḃ. Caiṫfimíd
 dul aḃaile láiṫreaċ agus an scéal a innsint dom’ ẛean-
