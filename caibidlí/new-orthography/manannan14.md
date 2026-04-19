@@ -175,7 +175,7 @@ aer fé mar a bheadh sé ag féachaint ar rud éigin i bhfad
 uaidh, dath an bháis ar gach aon aghaidh, agus iad go léir ina
 stalcaí gan anam gan anál. Annsan is eadh a thuigeas an
 rud a bhí aca á rádh le Máirtín, agus do buaileadh isteach
-im’ aigne go raibh an tÁrd-Mháighistir tar éis díoghaltais a
+im’ aigne go raibh an tárd-Mháighistir tar éis díoghaltais a
 agairt ortha.”
 
 “An marbh a bhíodar?” arsa Seán.
@@ -241,7 +241,7 @@ fhios agam i dtaobh uathbháis na hoidhche aréir.
 “Is iongnadh liom nár tugadh an íde chéadna orainne
 a tugadh ar na haindeiseóirí bochta úd,” arsa Máirtín.
 
-“Dá gceapadh an tÁrd-Mháighistir go raibh lámh nó
+“Dá gceapadh an tárd-Mháighistir go raibh lámh nó
 ladhar againn i n-aon chomh-cheilg ina choinnibh, ní dócha
 go bhfeicfeadh duine ar bith againn solas an lae indiu.
 Ach is dóigh liom gur fear é ná daorfadh duine gan a

@@ -1,6 +1,6 @@
 [l.137]: #
 
-# “Lugh Lámh-fhada”
+# ‘Lugh Lámh-fhada’
 
 Bhi árd an tráthnóna ann nuair a dhúisigh Brian as a
 chodladh, agus b’é céad duine a chonnaic sé nuair a
@@ -10,7 +10,7 @@ D’éirigh Brian aniar sa leabaidh.
 
 “Ó, a dhaid,” ar seisean, “ar scaoileadh saor sibh?”
 
-“Do scaoil an tÁrd-Mháighistir an triúr againn
+“Do scaoil an tárd-Mháighistir an triúr againn
 saor chomh luath agus a chuala sé i dtaobh an ghníomha a
 dheinis-se, a mhic. Thug sé árd-mholadh dhuit féin agus do
 Nící, agus ní hé amháin gur scaoil sé saor sinn, ach ghaibh
@@ -131,7 +131,7 @@ cionntach sinn,” arsa Máirtín le hÁmón.
 Níor dhein Ámón ach gáire breágh subháilceach a chur
 as.
 
-“B’fhéidir é,” ar seisean. “Deineann an tÁrd-Mháighistir 
+“B’fhéidir é,” ar seisean. “Deineann an tárd-Mháighistir 
 a dhícheall ar an bpíonós a chur i n-oireamhaint
 do’n choir is cúis leis. Féach,” ar seisean, “an bhfeiceann
 sibh an fear san thall annsan ar an gcasán eile?”
@@ -156,7 +156,7 @@ Níor dhein Ámón ach searradh a bhaint as a ghuailne.
 “Caillfear é,” ar seisean, “mara bhfuighidh sé duine
 éigin chun an biadh a chur ina bhéal.”
 
-Bhí an tÁrd-Mháighistir suidhte ina chathaoir uasail
+Bhí an tárd-Mháighistir suidhte ina chathaoir uasail
 san halla fada fairsing rómpa, díreach mar a bhí an
 chéad lá a chonnacadar é. Do gháir sé leis na garsúin,
 agus do labhair go séimh leo.
@@ -177,7 +177,7 @@ dubhairt ná raibh uatha ach cead a bheith aca chun imtheacht ar
 fuaid na cathrach agus eolas a chur ar an áit agus
 ar mhuintir na háite, agus stuidéar a dheanamh ar na
 nósanna a bhí aca agus ar an obair a dheinidís. Dubhairt
-an tÁrd-Mháighistir go mbeadh an cead san le fáil aca,
+an tárd-Mháighistir go mbeadh an cead san le fáil aca,
 agus go bhféachfadh Ámón chuige go dtabharfadh gach duine
 sa chathair gach aon chabhair agus gach aon eolas dóibh, do
 réir mar a bheadh ag teastáil uatha.
@@ -190,14 +190,14 @@ sa chathair ages na Cráidhmí, agus is beag má leómhann
 “I gcead duit, a Árd-Mháighistir,” arsa Máirtín,
 “ba mhaith liom focal a rádh leat i dtaobh na gCráidhmí úd.”
 
-“Abair leat,” arsa an tÁrd-Mháighistir.
+“Abair leat,” arsa an tárd-Mháighistir.
 
 “Bhíos ag déanamh mo mhachtnaimh ortha faid a bhíos
 sa phríosún,” arsa Máirtín, “agus do chuimhnigheas ar
 sheift chun iad a dhísciú.”
 
 “Má fhéadann tú seift a cheapadh chun deire a chur
-leis na Cráidhmí,” arsa an tÁrd-Mháighistir, “beidh a
+leis na Cráidhmí,” arsa an tárd-Mháighistir, “beidh a
 bhfuil sa chathair seo buidheach díot.”
 
 Do tharraing Máirtín páipéar as a phóca agus do
@@ -205,7 +205,7 @@ shín chuige é.
 
 “Féach air sin,” ar seisean.
 
-D’infhiúch an tÁrd-Mháighistir an páipéar ar feadh
+D’infhiúch an tárd-Mháighistir an páipéar ar feadh
 i bhfad.
 
 [l.143]: #
@@ -216,7 +216,7 @@ i bhfad.
 a bheidh ag teastáil uaim chun a dhéanta.”
 
 “Gheobhair gach aon nidh d’á mbeidh uait, ná bíodh aon
-eagla ort,” arsa an tÁrd-Mháighistir. “A Shínó,” ar
+eagla ort,” arsa an tárd-Mháighistir. “A Shínó,” ar
 seisean, “tar i leith.”
 
 Tháinig duine de’n Árd-Chomhairle anall chúcha. Fear

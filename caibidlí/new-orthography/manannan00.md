@@ -12,13 +12,13 @@ no tré aon díoltóir leabhar.
 
 Máiréad Ní Ghráda
 
-OIFIG AN tSOLÁThAIR
+OIFIG AN tSOLÁTHAIR
 
 Baile Átha Cliath
 
 #    
 
-Foillsigheadh de’n chéad uair, 1940.
+Foillsíodh den chéad uair, 1940.
 
 #     
 
@@ -26,26 +26,26 @@ Toirbhirim an leabhar so do BHRIAN
 mar go dtug sé cabhair agus comhairle
 dhom agus mé á scríobhadh.
 
-M. Ní GH.
+M. Ní Gh.
 
-Mí na Nodlag, 1939.
+Mí na Nollag, 1939.
 
-# CLÁR AN LEABHAIR
+# CLÁR AN LEABhAIR
 
-|                                   |Leathanach.|
-| :---                                  | ---:|
-| Pláinéid ná Feaca Súil Duine Riamh     |   9 |
-| An Radharc tríd an gciandracán         |  18 |
-| An Turas go Manannán                  |  31 |
-| Manannán                              |  44 |
-| Muintear Mhanannáin                    |  53 |
-| Na ‘Cráidhmí’                          |  68 |
-| An tárd-Mháighistir                     |  76 |
-| An Príosún                            |  87 |
-| Oidhche sa Choill                        |  98 |
-| An tInneall                           | 110 |
-| Oidhche thar Oidhcheanta                   | 124 |
-| ‘Lugh Lámh-fhada’                        | 137 |
-| An Troid leis na ‘Cráidhmí’            | 151 |
-| Díoghaltas                             | 166 |
-| An tÉalódh                             | 178 |
+|                                    | Leathanach. |
+| :---                               | ---:        |
+| Pláinéid ná Feaca Súil Duine Riamh | 9           |
+| An Radharc tríd an gCiandracán     | 18          |
+| An Turas go Manannán               | 31          |
+| Manannán                           | 44          |
+| Muintear Mhanannáin                | 53          |
+| Na ‘Cráidhmí’                      | 68          |
+| An tÁrd-Mháighistir                | 76          |
+| An Príosún                         | 87          |
+| Oíche sa Choill                    | 98          |
+| An tInneall                        | 110         |
+| Oíche thar Oícheanta               | 124         |
+| ‘Lugh Lámhfhada’                   | 137         |
+| An Troid leis na ‘Cráidhmí’        | 151         |
+| Díoltas                            | 166         |
+| An tÉalódh                         | 178         |

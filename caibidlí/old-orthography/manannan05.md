@@ -1,6 +1,6 @@
 [l.53]: #
 
-# muintear ṁanannáin
+# Muintear Ṁanannáin
 
 Óigḟear daṫaṁail deis-shéasaṁ a ḃí ann. Gruaig
 ḟionn-órḋa ar a ċeann, paca beag ar a gualainn
@@ -185,7 +185,7 @@ uaiḋ agus d’ḟéaċ go cruinn air. Bonn de’n tseana-
 ḋéanaṁ a ḃí ann agus peictiúir de Rí Ṡasana greanta
 ar ṫaoḃ de. D’inḟiúċ an fear an peictiúir go géar, agus
 d’ḟéaċ ó ḋuine go ċéile orṫa, fé mar a ḃeaḋ sé ad iarraiḋ
-a ḋéanaṁ amaċ cibé duine- aca go raiḃ a ṗeictiúir ar
+a ḋéanaṁ amaċ cioca duine aca go raiḃ a ṗeictiúir ar
 an soḃran. Nuair a ḃí sé sásta ina aigne nárḃ einne
 aca-san é do ċroit sé a ġuailne ar nós duine go raiḃ
 teipiṫe air bun ná barr a ḋéanaṁ de’n scéal, agus do

@@ -1,4 +1,4 @@
-[l.18]: #
+[l.44]: #
 
 # Manannán
 
@@ -30,6 +30,8 @@ Leis sin tháinig sé anuas go héadtrom ar an bpáirc
 tamall beag ó’n eiteallán. Bhí an triúr eile ag gáiridhe.
 
 “Ní hag eitilt a bhís, a mhic,” arsa an t-athair, “ach ag léimt.”
+
+[l.45]: #
 
 “Ní fheadfainn leim chomh fada san a Chaitheamh,” arsa Brian. “Féach a fhaid uaibh atáim.”
 
@@ -66,6 +68,8 @@ síos chun deoch d’ól.
 an t-uisce a thástáil ar eagla aon cheimicidheacht a bheith
 ann a dhéanfadh díoghbháil dúinn.”
 
+[l.46]: #
+
 “Fíor-uisce é,” ar seisean i gceann tamaillín.
 
 “Ólaidh bhúr ndóthain de.” 
@@ -97,9 +101,12 @@ na gcrann. Crainn mhóra ab eadh iad de shaghas ná
 feictear ar an saoghal seo, agus duilliúr tiugh ioldathach ortha.
 
 Bhí Brian ag féachaint ortha ag árdú an eitealláin
+
+
+[l.47]: #
+
 leo, agus a bhéal ar leathadh aige le hiongnadh agus le
 halltacht.
-
 “An amhlaidh ná fuil aon mheádhchan san eiteallán ? ”
 
 ar seisean.
@@ -136,6 +143,8 @@ an domhan cad a leag mé.
 
 arsa Seán.
 
+[l.48]: #
+
 “Níl éinní annso a bhainfeadh barra-thuisle asam,”
 
 arsa Brian. “Is amhlaidh a chrith an fód fé’m chosaibh
@@ -154,6 +163,7 @@ Bhain an bheirt eile triail as, ach ní túisce a chuiridís
 a gcosa thar an áit ina rabhadar ná caithtí siar ar chúl
 a gcinn iad.
 
+
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé nidh é.”
 
@@ -169,6 +179,9 @@ Seán agus d’fhéach suas san aer agus síos chun na talmhan.
 
 “Sin é an nidh is iongantaighe d’á bhfeaca riamh,” ar
 seisean. “Mhothuigheas mar a bheadh comhacht éigin ag
+
+[l.49]: #
+
 bualadh im’ choinnibh agus am’ theilgean siar le fórsa. Mara
 mbeadh a éadtruime atáim, gortóchthaí mé.”
 
@@ -201,6 +214,8 @@ an bhóthair agus do chromadar ar shúgradh dhóibh féin. Iad
 ag béicigh agus ag liúraigh chun a chéile mar a bheadh leanbhaí
 saoghalta. Do stad an ceathrar chun éisteacht leo. Bhí
 glórtha binne caola aca ach toisc a éadtruime a bhí an
+[l.50]: #
+
 t-aer d’fhéadfaidís gach aon nidh a chloisint go soiléir.
 Má chualadar, níor thuigeadar.
 
@@ -235,6 +250,8 @@ chur as.
 “Troid atá uait,” arsa Brian, agus do chrom ar a
 chasóig a bhaint de. Rug a athair ar ghualainn air.
 
+[l.51]: #
+
 “Go réidh, a mhic ó,” ar seisean. “Ní theastuigheann
 uainn droch-aigne na ndaoine a tharraing orainn. Agus
 ar aon chuma ní le droch-mhúineadh ná le dailtíneacht atá
@@ -252,7 +269,7 @@ an bhóthair.
 
 Fuair na leanbhaí ana-shult san obair. Bhíodar ag
 tuitim ar a gcosaibh le greann is le gáiridhe, agus d’á
-mhéid fearg a bhí ar Bhrian chúcha is eadh is- mó a bhíodar ag
+mhéid fearg a bhí ar Bhrian chúcha is eadh is mó a bhíodar ag
 scairteadh.
 
 Do leig Seán scread ortha.
@@ -267,6 +284,10 @@ soiléir.
 spéir,” agus do shín sé a mhéar chun na spéire, “i
 n-eiteallán.” Do dhein sé comharthaí le n-a dhá láimh agus
 do chuir crónán as a bhéal agus é ad iarraidh aithrise a
+
+[l.52]: #
+
+
 dheanamh ar dhordan an eitealláin. Níor dhein na leanbhaí
 ach a méireanna féin a shíneadh chun na speire agus crónán
 bog binn a chur asta mar a dhéanfadh saite beach. D’fhéachadar ar Sheán annsan agus do gháireadar leis, i leith is

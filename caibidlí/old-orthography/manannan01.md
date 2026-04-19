@@ -1,6 +1,6 @@
 [l.9]: #
 
-# Pláinéid ná Feaca Súil Duine Riaṁ
+# Pláinéid ná Feaca Súil Duine riaṁ
 
 Do ċaiṫ Seán Ó Maolċaṫa é féin siar sa ċaṫaoir
 agus do ċuir gáire as.
@@ -29,7 +29,7 @@ aon ṗláinéid eile, aċ mar sin féin náċ féidir dúinn í
 
 [l.10]: #
 fé n-a anáil aduḃairt sé é, agus ní ċuala an ḃeirt eile é.
-Ba ḋóig le duine, áṁṫaċ, gur ṫuig an réaltóir an rud a
+Ba ḋóiġ le duine, áṁṫaċ, gur ṫuig an réaltóir an rud a
 ḃí ina aigne, mar d’iompuiġ sé ċuige agus do laḃair leis.
 
 “Tá ḟios agam ná creideann tú mé,” ar seisean.
@@ -51,7 +51,7 @@ Agus do ċuir gáire as.
 mé ċeana, is tú an réaltóir is fearr agus is mó cáil ar
 doṁan. Má deir tú liom go ḃfuil a leiṫéid de pláinéid
 ann géillim duit go ḃfuil sí ann, agus gan de ḋeiṁniú
-agam ar ḟírinne do scéil aċ t’ḟocal aṁáin. Aċ fiafruiġim 
+agam ar ḟírinne do scéil aċ t’ḟocal aṁáin. Aċ fiafruiġim
 an méid seo ḋíot. Má tá an ṗláinéid sin ann
 cad ’na ṫaoḃ ná feictear í?”
 
@@ -60,7 +60,7 @@ cad ’na ṫaoḃ ná feictear í?”
 tá sí ann cad ’na ṫaoḃ ná feictear í?”
 
 “Tá sí ann,” arsa an réaltóir, “agus ní feictear í.
-’Neosfad daoiḃ ċé’n fáṫ.”
+’Neosfad daoiḃ cé’n fáṫ.”
 
 [l.11]: #
 
@@ -98,7 +98,7 @@ féaċaint ar an mbeirt aca agus iarraċt de ṁagaḋ ina
 
 [l.12]: #
 
-“Ḃí cúis fé leiṫ agam le cuaireaḋ a ṫaḃairt do’n
+“Ḃí cúis fé leiṫ agam le cuireaḋ a ṫaḃairt do’n
 ḃeirt agaiḃ ċun teaċt annso anoċt,” ar seisean.
 “Sé Seán Ó Maolċaṫa an t-eiteallánuí is fearr ar
 doṁan, agus tá tuiscint ag Máirtín Mac Con Miḋe i
@@ -115,7 +115,7 @@ Is maiṫ a ṫuig an réaltóir an rud a ḃí ina n-aigne aca.
 
 “Is dóiġ liḃ gur as mo ṁeaḃair atáim,” ar seisean,
 “aċ bíoḋ foiḋne agaiḃ. Agus léireoċad daoiḃ ná fuil
-mire ná mearṫall orm. Ní ḋéanfad a ṫuille boġríní ar
+mire ná mearṫall orm. Ní ḋéanfad a ṫuille boġsíní ar
 an scéal aċ é innsint daoiḃ díreaċ fé mar atá.
 
 “Deiċ mbliana ó ṡoin do ċaiṫeas tamall san
@@ -141,12 +141,12 @@ sin. Agus fuaraṫas, leis, innte, mór-ċuid pár, nó
 paipírí, agus scríḃinní doiṁne do-léiġte orṫa. Ḃí sé
 d’áḋ orm-sa seilḃ d’ḟáil ar ċeann de sna paipírí sin.
 Is le duaḋ a fuaireas é, aċ scéal eile é sin agus ní
-’neosfad daoiḃ anoċt e.”
+’neosfad daoiḃ anoċt é.”
 
 D’ḟéaċ an ḃeirt eile ar a ċéile aċ ní duḃradar
 aon ḟocal.
 
-“Téasbáinfead daoiḃ é. Tá ḟios agam gur maiṫ
+“Teasbáinfead daoiḃ é. Tá ḟios agam gur maiṫ
 le Seán Ó Maolċaṫa gaċ éinní a ḟeiscint ina ṡúiliḃ cinn
 féin.”
 
@@ -154,9 +154,9 @@ Anonn leis do’n ċoṁrainn daingin a ḃí i gcúinne
 de’n tseomra, agus do ḃain an glas di. Ḃí carn
 páipéar sa ċoṁrainn. Do ṫóg sé na páipéir ina láiṁ agus
 do noċt bosca beag iarainn fúṫa. Do ṫóg sé an bosca
-as an gcoṁrainn agus ṫáinig ṫar n-ais ċun a’ċaṫaoireaċ.
+as an gcoṁrainn agus ṫáinig ṫar n-ais ċun a ċaṫaoireaċ.
 Ḃain sé eoċair ḃeag as a ṗóca agus d’oscail an bosca.
-Ḃí seana-ṗár istiġ ann. Do ċróm an ḃeirt eile níos
+Ḃí seana-ṗár istiġ ann. Do ċrom an ḃeirt eile níos
 giorra ḋó ċun é ḟeiscint. Do ṫóg sé an pár as an
 mbosca agus do leaṫnuiġ amaċ é.
 
@@ -164,11 +164,11 @@ mbosca agus do leaṫnuiġ amaċ é.
 
 [l.14]: #
 
-“Diaḃal a ḃfeadar-sa cad tá ann,” arsa Seán ó
+“Diaḃal a ḃfeadar-sa cad tá ann,” arsa Seán Ó
 Maolċaṫa. “Ní ḟeicim-se ann aċ píosa de ṡeana-ṗár
-ḋuiḋe agus é ag tuitim as a ċéile leis an aois.”
+ḃuiḋe agus é ag tuitim as a ċéile leis an aois.”
 
-“Cairt nó léarscáil atá ann, arsa Máirtín.
+“Cairt nó léarscáil atá ann,” arsa Máirtín.
 
 “Tá an ceart agat,” arsa an réaltóir, “cairt nó
 léarscáil atá ann. Léarscáil de’n spéir atá ann.
@@ -184,13 +184,13 @@ an scéil.
 “Táid go léir ann go cruinn is go beaċt,” arsa an
 réaltóir arís. “Aċ tá rud ar an gcairt sin a ċuir
 iongantas orm-sa an ċéad uair a ċonnac í. Tá pláinéid
-uirṫe de breis ar na cinn atá ar eolas againne.”
+uirṫe de ḃreis ar na cinn atá ar eolas againne.”
 
 “An ndeireann tú liom é?” arsa an t-eiteallánuí
-agus an’ dá ṡúil sáiḋte sa ċairt aige.
+agus an dá ṡúil sáiḋte sa ċairt aige.
 
 “Duḃart liom féin i dtosaċ gur dóċa gur dearṁad
-a ḃí ar án té a ḋein an ċairt, aċ do ṫuigeas ar a ċruinne
+a ḃí ar an té a ḋein an ċairt, aċ do ṫuigeas ar a ċruinne
 a ḃí gaċ aon niḋ breacuiṫe síos aige gurḃ eoluiḋe cliste
 oilte é, gurḃ ḟear é ná déanfaḋ dearṁad aċ oiread is
 a ḋéanfainn féin dearṁad, nó oiread is a ḋéanfaḋ
@@ -207,18 +207,18 @@ n-a eiteallán.”
 ḃí sí ann an uair sin caḋ ’na ṫaoḃ ná fuil sí ann anois?
 B’ṡin í an ċeist. B’ṡin í an aḋb a ḃain codlaḋ na
 hoiḋċe ḋíom-sa ar feaḋ i ḃfad. B’é toraḋ mo stuidéir
-agus toraḋ mo ṁaċtnaiṁ ar an gceist go raḃas deiṁnigṫeaċ 
+agus toraḋ mo ṁaċtnaiṁ ar an gceist go raḃas deiṁnigṫeaċ
 de go raiḃ an ṗláinéid sa spéir san áit ina raiḃ
 sí breacuiṫe síos ag an sean-eolgaċ Éigipteaċ, aċ ar ċuma
 éigin náċ féidir í ḟeiscint. Táim ag gaḃáil do’n ċeist le
 deiċ mbliana. Ní ḃead ḃúr mboḋraḋ le mion-ċúntaisí ar
-an áireaṁ a ḋeineas ar ċúrsaí na pláinéid, ná ar an méid
-saoṫair a ḋeineas ar ġloiní agus ar ċianḋracáin. Ní
-déarfad aċ an méid seo——gur éiriġ liom sa deire ciandracán 
+an áireaṁ a ḋeineas ar ċúrsaí na bpláinéid, ná ar an méid
+saoṫair a ḋeineas ar ġloiní agus ar ċiandracáin. Ní
+déarfad aċ an méid seo——gur éiriġ liom sa deire ciandracán
 a ḋéanaṁ a ṫugann raḋarc dom ar an bpláinéid
 sin atá foluiġṫe ó ṡúiliḃ an duine.”
 
-“Aċ ní raiḃ ciandracán de’n tṡórd san ag an sean-Éigipteaċ,”
+“Aċ ní raiḃ ciandracán de’n tsórd san ag an sean-Éigipteaċ,”
 arsa Seán, “agus náċ maiṫ go ḃfeaca
 seisean í.”
 
@@ -237,10 +237,10 @@ hÉigipte anallód, b’ḟéidir.”
 Leis sin do ṗreab garsún amaċ ó’n dtaoḃ ṫiar de’n
 scáileán a ḃí treasna ar an ḃfuinneóig.
 
-“Ó, a ḋaid,” ar seisean, “leig dom-sa í Feiscint."
+“Ó, a ḋaid,” ar seisean, “leig doṁ-sa í ḟeiscint."
 
 Do baineaḋ geit as an mbeirt eile aċ do leag an
-realtóir a láṁ ar ċeann an ġarsúin agus do laḃair go
+réaltóir a láṁ ar ċeann an ġarsúin agus do laḃair go
 cneasta leis.
 
 “Ċeapas go raiḃ tusa id’ leabaiḋ fadó riaṁ, a ṁic,”
@@ -263,7 +263,7 @@ nua. Leig leat mé go ḃfeicead í.”
 “Ní haon ṗláinéid nua í,” arsa an t-aṫair. “Tá sí
 riaṁ ann, aċ nárḃ ḟéidir í ḟeiscint go dtí so. Riṫ leat
 a ċodlaḋ agus teasbáinfead duit oiḋċe éigin eile í.
-Suas an staiġre leat anois.” 
+Suas an staiġre leat anois.”
 
 Ṫug an garsún aġaiḋ ar a ṡeomra codlata aċ ba
 léir gur i gcoinniḃ a ċos é.

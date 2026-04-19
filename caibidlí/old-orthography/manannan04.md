@@ -1,4 +1,4 @@
-[l.18]: #
+[l.44]: #
 
 # Manannán
 
@@ -30,6 +30,8 @@ Leis sin ṫáinig sé anuas go héadtrom ar an bpáirc
 tamall beag ó’n eiteallán. Ḃí an triúr eile ag gáiriḋe.
 
 “Ní hag eitilt a ḃís, a ṁic,” arsa an t-aṫair, “aċ ag léimt.”
+
+[l.45]: #
 
 “Ní ḟeadfainn leim ċoṁ fada san a Ċaiṫeaṁ,” arsa Brian. “Féaċ a ḟaid uaiḃ atáim.”
 
@@ -66,6 +68,8 @@ síos ċun deoċ d’ól.
 an t-uisce a ṫástáil ar eagla aon ċeimiciḋeaċt a ḃeiṫ
 ann a ḋéanfaḋ díoġḃáil dúinn.”
 
+[l.46]: #
+
 “Fíor-uisce é,” ar seisean i gceann tamaillín.
 
 “Ólaiḋ ḃúr ndóṫain de.” 
@@ -97,9 +101,12 @@ na gcrann. Crainn ṁóra ab eaḋ iad de ṡaġas ná
 feictear ar an saoghal seo, agus duilliúr tiuġ ioldaṫaċ ortha.
 
 Ḃí Brian ag féaċaint orṫa ag árdú an eitealláin
+
+
+[l.47]: #
+
 leo, agus a ḃéal ar leaṫaḋ aige le hiongnaḋ agus le
 halltaċt.
-
 “An aṁlaiḋ ná fuil aon ṁeáḋċan san eiteallán ? ”
 
 ar seisean.
@@ -136,6 +143,8 @@ an doṁan cad a leag mé.
 
 arsa Seán.
 
+[l.48]: #
+
 “Níl éinní annso a ḃainfeaḋ barra-ṫuisle asam,”
 
 arsa Brian. “Is aṁlaiḋ a ċriṫ an fód fé’m ċosaiḃ
@@ -154,6 +163,7 @@ talaṁ.”
 a gcosa ṫar an áit ina raḃadar ná caiṫtí siar ar ċúl
 a gcinn iad.
 
+
 “Bead-sa suas leis,” arsa Seán i gceann tamaill,
 “ pé niḋ é.”
 
@@ -169,6 +179,9 @@ Seán agus d’ḟéaċ suas san aer agus síos ċun na talṁan.
 
 “Sin é an niḋ is iongantaiġe d’á ḃfeaca riaṁ,” ar
 seisean. “Ṁoṫuiġeas mar a ḃeaḋ coṁaċt éigin ag
+
+[l.49]: #
+
 bualaḋ im’ ċoinniḃ agus am’ ṫeilgean siar le fórsa. Mara
 mbeaḋ a éadtruime atáim, gortóċṫaí mé.”
 
@@ -201,6 +214,8 @@ an ḃóṫair agus do ċromadar ar ṡúgraḋ ḋóiḃ féin. Iad
 ag béiciġ agus ag liúraiġ ċun a ċéile mar a ḃeaḋ leanḃaí
 saoġalta. Do stad an ceaṫrar ċun éisteaċt leo. Ḃí
 glórṫa binne caola aca aċ toisc a éadtruime a ḃí an
+[l.50]: #
+
 t-aer d’ḟéadfaidís gaċ aon niḋ a ċloisint go soiléir.
 Má ċualadar, níor ṫuigeadar.
 
@@ -235,6 +250,8 @@ Níor ḋein an garsún eile aċ scairt ṁór ġáiriḋe
 “Troid atá uait,” arsa Brian, agus do ċrom ar a
 ċasóig a ḃaint de. Rug a aṫair ar ġualainn air.
 
+[l.51]: #
+
 “Go réiḋ, a ṁic ó,” ar seisean. “Ní ṫeastuiġeann
 uainn droċ-aigne na ndaoine a ṫarraing orainn. Agus
 ar aon ċuma ní le droċ-ṁúineaḋ ná le dailtíneaċt atá
@@ -252,7 +269,7 @@ an ḃóṫair.
 
 Fuair na leanḃaí ana-ṡult san obair. Ḃíodar ag
 tuitim ar a gcosaiḃ le greann is le gáiriḋe, agus d’á
-ṁéid fearg a ḃí ar Ḃrian ċúċa is eaḋ is- mó a ḃíodar ag
+ṁéid fearg a ḃí ar Ḃrian ċúċa is eaḋ is mó a ḃíodar ag
 scairteaḋ.
 
 Do leig Seán scread orṫa.
@@ -267,6 +284,10 @@ soiléir.
 spéir,” agus do ṡín sé a ṁéar ċun na spéire, “i
 n-eiteallán.” Do ḋein sé coṁarṫaí le n-a ḋá láiṁ agus
 do ċuir crónán as a ḃéal agus é ad iarraiḋ aiṫrise a
+
+[l.52]: #
+
+
 ḋeanaṁ ar ḋordan an eitealláin. Níor ḋein na leanḃaí
 aċ a méireanna féin a ṡíneaḋ ċun na speire agus crónán
 bog binn a ċur asta mar a ḋéanfaḋ saite beaċ. D’ḟéachadar ar Ṡeán annsan agus do ġáireadar leis, i leiṫ is
