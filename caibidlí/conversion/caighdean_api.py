@@ -8,12 +8,14 @@ from __future__ import annotations
 
 import json
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
 API_URL = "https://cadhan.com/api/intergaelic/3.0"
-MAX_REQUEST_BYTES = 15000
+# Form body is larger than raw UTF-8; stay under server limits (413 if too big).
+MAX_REQUEST_BYTES = 10000
 
 _MARK_LINE = re.compile(r"^\[l\.(\d+)\]:\s*#\s*$")
 # Markdown line that is only hashes and whitespace (no title text) — still shield.
@@ -56,6 +58,20 @@ def unshield(text: str, mapping: dict[str, str]) -> str:
     return text
 
 
+def _validate_api_pairs(raw: object, teacs: str) -> None:
+    """Ensure the API returned a usable token list; raise if not."""
+    if not isinstance(raw, list):
+        raise RuntimeError(f"Caighdeán API returned non-list JSON: {type(raw).__name__}")
+    if teacs.strip() and len(raw) == 0:
+        raise RuntimeError(
+            "Caighdeán API returned an empty pair list for non-empty input "
+            "(possible outage or rate limit)."
+        )
+    for i, item in enumerate(raw):
+        if not isinstance(item, (list, tuple)) or len(item) != 2:
+            raise ValueError(f"Unexpected pair shape at index {i}: {item!r}")
+
+
 def standardize_irish(teacs: str, timeout: int = 120) -> list[tuple[str, str]]:
     data = urllib.parse.urlencode({"teacs": teacs, "foinse": "ga"}).encode("utf-8")
     req = urllib.request.Request(
@@ -68,17 +84,24 @@ def standardize_irish(teacs: str, timeout: int = 120) -> list[tuple[str, str]]:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             body = resp.read().decode("utf-8")
     except urllib.error.HTTPError as e:
+        try:
+            detail = e.read().decode("utf-8", errors="replace")[:500]
+        except Exception:
+            detail = "(error body unavailable)"
+        raise RuntimeError(f"Caighdeán API HTTP {e.code}: {detail}") from e
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"Caighdeán API network error: {e}") from e
+    try:
+        raw = json.loads(body)
+    except json.JSONDecodeError as e:
         raise RuntimeError(
-            f"Caighdeán API HTTP {e.code}: "
-            f"{e.read().decode('utf-8', errors='replace')[:500]}"
+            "Caighdeán API returned non-JSON (check service or rate limit). "
+            f"Body starts: {body[:200]!r}"
         ) from e
-    raw = json.loads(body)
+    _validate_api_pairs(raw, teacs)
     out: list[tuple[str, str]] = []
     for item in raw:
-        if isinstance(item, (list, tuple)) and len(item) == 2:
-            out.append((str(item[0]), str(item[1])))
-        else:
-            raise ValueError(f"Unexpected pair shape: {item!r}")
+        out.append((str(item[0]), str(item[1])))
     return out
 
 
@@ -148,11 +171,18 @@ def chunk_by_bytes(text: str, max_bytes: int = MAX_REQUEST_BYTES) -> list[str]:
     return chunks
 
 
-def standardize_irish_long(text: str, timeout: int = 120) -> tuple[str, list[tuple[str, str]]]:
+def standardize_irish_long(
+    text: str,
+    timeout: int = 120,
+    delay_between_requests_sec: float = 0.0,
+) -> tuple[str, list[tuple[str, str]]]:
+    """POST each byte-chunk to the API. Optional delay (seconds) before each request after the first."""
     chunks = chunk_by_bytes(text)
     all_pairs: list[tuple[str, str]] = []
     det_parts: list[str] = []
-    for ch in chunks:
+    for i, ch in enumerate(chunks):
+        if delay_between_requests_sec > 0 and i > 0:
+            time.sleep(delay_between_requests_sec)
         pairs = standardize_irish(ch, timeout=timeout)
         all_pairs.extend(pairs)
         det_parts.append(detokenize_target(pairs))

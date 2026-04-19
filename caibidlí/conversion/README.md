@@ -22,7 +22,22 @@ python3 caibidlí/conversion/build_new_orthography.py --spelling
 
 Add rows to that markdown table as you approve pairs; re-run with `--spelling` when you want them applied. Longer entries are applied before shorter ones.
 
+## Spelling layer (new → Cadhan API → `spelling/`)
+
+From the repo root, one chapter (network required):
+
+```bash
+python3 caibidlí/conversion/fetch_caighdean_chapter.py --chapter 01 --delay 5
+```
+
+All chapters, skipping ones already in `spelling/`, with pauses between requests and between chapters (polite to the server):
+
+```bash
+python3 caibidlí/conversion/fetch_caighdean_chapter.py --all --only-missing --delay 5 --chapter-delay 15
+```
+
+On HTTP errors, empty API responses, or bad JSON, the script exits and does not continue. Chunk size is capped in [`caighdean_api.py`](caighdean_api.py) so POST bodies stay under server limits.
+
 ## What is not automated yet
 
-- Full **An Caighdeán** lexical normalisation (beyond the small table).
 - **Proofreading** and PDF alignment — still human work on `old-orthography/`.
