@@ -39,13 +39,12 @@ Read the **Modern Irish** (spelling-corrected) version linked in the table of co
 
 ## Contents of This Repo
 
-### Text layers (`caibidlí/`)
+### Assets
+- **Manannán.jpg** JPEG image of the cover
+- **Manannán.png** Loseless high resolution image of the cover
 
-- **Old** — [`caibidlí/old-orthography/`](caibidlí/old-orthography/): transcription from the PDF, aiming to match the printed text as closely as possible (including old Irish orthography).
-- **New** — [`caibidlí/new-orthography/`](caibidlí/new-orthography/): same text after replacing old-style characters with modern equivalents (mechanical / grapheme pass from Old).
-- **Spell** — [`caibidlí/spelling/`](caibidlí/spelling/): starting from New, spelling updated using suggestions from the [caighdean](https://github.com/kscanne/caighdean) engine (via Cadhan [Intergaelic](https://cadhan.com/api/intergaelic/3.0); see [API.md](https://github.com/kscanne/caighdean/blob/master/API.md)), plus **reader-submitted fixes** applied on top where the automatic output is wrong.
-
-Chapter PDFs live under `caibidlí/` (e.g. `manannan01.pdf`). Conversion scripts are in [`caibidlí/conversion/`](caibidlí/conversion/) (e.g. [`build_new_orthography.py`](caibidlí/conversion/build_new_orthography.py), [`fetch_caighdean_chapter.py`](caibidlí/conversion/fetch_caighdean_chapter.py)).
+### caibidlí
+- The chapters as raw PDF scans and text
 
 ### epub
 
