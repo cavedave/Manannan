@@ -2,7 +2,7 @@
 
 *[Manannán](https://www.isfdb.org/cgi-bin/pl.cgi?584553)* written in 1940 by [Máiréad Ní Ghráda](https://www.dib.ie/biography/ni-ghrada-mairead-a6187). An Irish-language young adult sci-fi space travel book. Contains one of the first uses of a [mecha](https://en.wikipedia.org/wiki/Mecha) outside of Japan and the first mention of a [gravity assist](https://en.wikipedia.org/wiki/Gravity_assist) in literature. 
 
-The book has never been reprinted or translated. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
+The book has never been reprinted or translated. [Máiréad Ní Ghráda](https://www.dib.ie/biography/ni-ghrada-mairead-a6187) is an important Irish writer and the project aims to make her work more widely available. This digitisation project aims to make the book more accessible and widely read. The text used the old [Irish orthography](https://en.wikipedia.org/wiki/Irish_orthography) (dot over the letter = h after the letter, etc.).
 
 ![Manannán cover](assets/manannan.jpg)
 
@@ -32,7 +32,7 @@ The book has never been reprinted or translated. This digitisation project aims 
 
 ## How to Help
 
-Read the **Modern Irish** version linked in the table of contents above ([`caibidlí/new-orthography/`](caibidlí/new-orthography/)). If you find errors, say so in **chat** (here or wherever we are talking) and the text will be updated from that. If you are comfortable with Git, a **pull request** with edits is welcome too. Corrections are especially welcome from Irish speakers.
+Read the **New** version linked in the table of contents above ([`caibidlí/new-orthography/`](caibidlí/new-orthography/)). If you find errors, say so with an issue or message on social media and the text will be updated from that. If you are comfortable with Git, a **pull request** with edits is welcome too. Corrections are especially welcome from Irish speakers.
 
 
 
@@ -42,8 +42,8 @@ Read the **Modern Irish** version linked in the table of contents above ([`caibi
 ### Text layers (`caibidlí/`)
 
 - **Old** — [`caibidlí/old-orthography/`](caibidlí/old-orthography/): transcription from the PDF, aiming to match the printed text as closely as possible (including old Irish orthography).
-- **New** — [`caibidlí/new-orthography/`](caibidlí/new-orthography/): same text after replacing old-style characters with modern equivalents (mechanical / grapheme pass from Old).
-- **Spell** — `caibidlí/spelling/`: API-generated spelling versions have been removed from GitHub for now. Spelling updates will be done more carefully by hand.
+- **New*** — [`caibidlí/new-orthography/`](caibidlí/new-orthography/): same text after replacing old-style characters with modern equivalents (mechanical / grapheme pass from Old).
+- **Spell** — `caibidlí/spelling/`: This might eventually be a version with modern spelling. But it is important to keep the authors voice and care is needed to not overly modernise the text
 
 Chapter PDFs live under `caibidlí/` (e.g. `manannan01.pdf`). Conversion scripts are in [`caibidlí/conversion/`](caibidlí/conversion/) (e.g. [`build_new_orthography.py`](caibidlí/conversion/build_new_orthography.py), [`fetch_caighdean_chapter.py`](caibidlí/conversion/fetch_caighdean_chapter.py)).
 
